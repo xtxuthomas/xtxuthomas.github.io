@@ -54,8 +54,8 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: title
-          subtitle: "subtitle"
+          title: Xiao-Tian Xu (徐啸天)
+          subtitle: "This page is under construction."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -72,9 +72,6 @@ params:
               url: tags/
             - name: Archive
               url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-
     socialIcons:
         - name: CV
           url: cv.pdf
