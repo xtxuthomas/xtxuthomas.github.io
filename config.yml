@@ -1,5 +1,5 @@
 baseURL: "https://xtxuthomas.github.io/" 
-title: test
+title: Xiao-Tian Xu's page
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -80,16 +80,8 @@ params:
           url: cv.pdf
         - name: Email
           url: mailto:igelfeld@regensburg.edu
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
         - name: Location
           url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: GitHub
-          url: https://github.com/pmichaillat
         - name: Substack
           url: https://pmichaillat.substack.com
         - name: YouTube
