@@ -38,7 +38,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["Works","courses","papers","data"]
+    #MainSections: ["Works","courses","papers","data"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -54,27 +54,27 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Courses
-              url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
+         #   - name: Papers
+         #     url: papers/
+         #   - name: Data
+         #     url: data/
+         #   - name: Books
+         #     url: books/
+         #   - name: Courses
+         #     url: courses/
+         #   - name: Tags
+         #     url: tags/
+         #   - name: Archive
+         #     url: archive/
             - name: Guitar
               url: guitar.mp4
-    socialIcons:
-        - name: CV
-          url: cv.pdf
-        - name: Email
-          url: mailto:igelfeld@regensburg.edu
-        - name: Location
-          url: location/
+#    socialIcons:
+#        - name: CV
+#          url: cv.pdf
+#        - name: Email
+#          url: mailto:igelfeld@regensburg.edu
+#        - name: Location
+#          url: location/
 
     assets:
         disableScrollBarStyle: true
