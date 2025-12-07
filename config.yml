@@ -66,6 +66,8 @@ params:
               url: tags/
             - name: Archive
               url: archive/
+            - name: Guitar
+              url: guitar.mp4
     socialIcons:
         - name: CV
           url: cv.pdf
