@@ -67,7 +67,7 @@ params:
          #   - name: Archive
          #     url: archive/
             - name: Resarch
-              url: XXU_Work_v2.pdf
+              url: XXU_Works_v2.pdf
             - name: CV
               url: XXU_CV.pdf
             - name: Guitar
