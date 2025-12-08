@@ -67,7 +67,7 @@ params:
          #   - name: Archive
          #     url: archive/
             - name: CV
-              url: XXU-CV.pdf
+              url: XXU_CV.pdf
             - name: Guitar
               url: guitar.mp4
 #    socialIcons:
