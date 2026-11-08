@@ -64,9 +64,11 @@ I am a Tsung-Dao Lee Postdoctoral Fellow at the Tsung-Dao Lee Institute, Shangha
 
 <section class="home-panel" id="interesting-papers">
 
-## Interesting papers {#heading-interesting-papers}
+## Read lists {#heading-interesting-papers}
 
-{{< page-content "reading" >}}
+- [Reading lists](reading/)
+- [Dong Lai’s group meeting papers](https://donglai6.github.io/gp.html)
+- [New astrophysics papers on arXiv](https://arxiv.org/list/astro-ph/new)
 
 </section>
 

@@ -25,7 +25,7 @@ menu:
         - name: My Papers
           url: "/#my-papers"
           weight: 4
-        - name: Interesting papers
+        - name: Read lists
           url: "/#interesting-papers"
           weight: 5
         - name: Codes and data

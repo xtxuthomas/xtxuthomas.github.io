@@ -13,7 +13,7 @@ This is your existing Hugo + PaperMod site, expanded without changing its theme.
 | Teaching | `content/courses/_index.md` |
 | Models and data links | `content/data/_index.md` |
 | Useful links | `content/links.md` |
-| Interesting papers / reading list | `content/reading.md` |
+| Reading lists | `content/reading.md` |
 | Education and research experience | `content/_index.md` (About me panel) |
 | Photo, CV, research PDF, guitar video | `static/` |
 | Small visual adjustments | `assets/css/extended/academic.css` |
@@ -41,7 +41,7 @@ Upload a PDF to `static/notes.pdf`, then link to it with `[Download notes](/note
 
 Edit the entries under `menu: main:` in `config.yml`. Each entry supplies a label, a homepage anchor such as `/#research`, and a weight. Lower weights appear first. This list controls both the homepage tabs and the menu on other pages.
 
-Edit the panel text in `content/_index.md`. The section ID must match the anchor in `config.yml`. The Interesting papers and Useful links panels display the content of `content/reading.md` and `content/links.md`, respectively.
+Edit the panel text in `content/_index.md`. The section ID must match the anchor in `config.yml`. The Read lists panel links to the separate page in `content/reading.md`. The Useful links panel displays `content/links.md`.
 
 ## Add a figure or photo
 
@@ -65,21 +65,15 @@ For a paper's own page, you can instead place `figure.png` beside `content/paper
 
 Save the file and check the local preview. Do not add the figure shortcode until the matching image file exists, or the page will show a broken image.
 
-## Add an interesting paper to the reading list
+## Add to the reading list
 
-Edit `content/reading.md`. This is a separate reading list; your own publications stay in `data/publications.yaml`.
-
-Delete “First selections coming soon.” when you add your first entry. Add a date heading and bullet points, newest dates first:
+Edit `content/reading.md`. Copy a line under the appropriate arXiv submission year and replace the title, arXiv ID, and author names. Use the first five authors in order, or all authors if the paper has fewer than five.
 
 ```markdown
-## 22 September 2026
-
-- **[Paper title](https://arxiv.org/abs/YOUR_ID)** — Authors (year).
-  A short note on why it is interesting, or a question for discussion.
-  [PDF](https://arxiv.org/pdf/YOUR_ID)
+- [Paper title](https://arxiv.org/abs/ARXIV_ID): First Author, Second Author, Third Author, Fourth Author, Fifth Author
 ```
 
-Replace the title, authors, date, and URLs. Add more bullets below the same date for a group meeting, or a new date heading for the next session. Notes and PDF links are optional. Save the file to update the preview. No changes to the navigation or templates are needed for new entries.
+Keep each paper on one line. Add a year heading such as `## 2027` when needed. Only add papers with a public arXiv record.
 
 ## Add a paper (no separate page needed)
 

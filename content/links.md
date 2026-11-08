@@ -6,7 +6,7 @@ hideMeta: true
 
 ## Literature
 
-- [Interesting papers](/#interesting-papers) — reading and discussion list.
+- [Read lists](/#interesting-papers) — reading and discussion list.
 
 - [arXiv: astrophysics](https://arxiv.org/archive/astro-ph) — preprints and new research.
 - [SciX](https://scixplorer.org/) — literature and citation searches.
