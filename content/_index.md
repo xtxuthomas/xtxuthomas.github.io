@@ -77,7 +77,7 @@ I am a Tsung-Dao Lee Postdoctoral Fellow at the Tsung-Dao Lee Institute, Shangha
 ### Quick access
 
 - [GWTC-5 update](https://arxiv.org/abs/2605.27225) | [GWTC-5 population](https://arxiv.org/abs/2605.27226)
-- [BLOeM: A spectroscopic VLT monitoring survey of massive stars in the SMC](https://arxiv.org/abs/2407.14593) (Shenar et al.)
+- [BLOeM](https://arxiv.org/abs/2407.14593)
 
 </section>
 
