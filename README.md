@@ -67,13 +67,17 @@ Save the file and check the local preview. Do not add the figure shortcode until
 
 ## Add to the reading list
 
-Edit `content/reading.md`. Copy a line under the appropriate arXiv submission year and replace the title, arXiv ID, and author names. Use the first five authors in order, or all authors if the paper has fewer than five.
+Edit `content/reading.md`. For each weekly update, add a block above the previous entries. Start with a divider and a heading with the actual update date and time, including the time zone.
 
 ```markdown
+---
+
+## YYYY-MM-DD · HH:MM (Shanghai time)
+
 - [Paper title](https://arxiv.org/abs/ARXIV_ID): First Author, Second Author, Third Author, Fourth Author, Fifth Author
 ```
 
-Keep each paper on one line. Add a year heading such as `## 2027` when needed. Only add papers with a public arXiv record.
+Keep one paper per line and list up to five authors in order. Use public arXiv links. The existing year headings serve as the archive for earlier entries.
 
 ## Add a paper (no separate page needed)
 

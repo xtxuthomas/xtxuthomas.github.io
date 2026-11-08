@@ -8,6 +8,8 @@ readingList: true
 <!-- Add one Markdown bullet per paper under its arXiv submission year.
      Link the title to https://arxiv.org/abs/ARXIV_ID and list up to five authors. -->
 
+---
+
 ## 2026
 
 - [The formation and evolution of Wolf-Rayet stars with temperature-dependent winds](https://arxiv.org/abs/2611.06650): Guy O. Flint, Avishai Gilkis, Tomer Shenar, Christopher A. Tout
