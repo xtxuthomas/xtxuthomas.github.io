@@ -30,7 +30,6 @@
 }
 
 .top-link {
-    visibility: hidden;
     position: fixed;
     bottom: 60px;
     right: 30px;
@@ -40,7 +39,6 @@
     height: 42px;
     padding: 12px;
     border-radius: 64px;
-    transition: visibility 0.5s, opacity 0.8s linear;
 }
 
 .top-link,
@@ -53,7 +51,6 @@
     color: var(--secondary);
 }
 
-.top-link:focus,
 #theme-toggle:focus {
     outline: 0;
 }

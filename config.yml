@@ -47,7 +47,7 @@ params:
     ShowAllPagesInArchive: false
     #MainSections: ["Works","courses","papers","data"]
     ShowToc: false
-    disableScrollToTop: true
+    disableScrollToTop: false
     TocOpen: true
     ShowWordCount: false
     UseHugoToc: true
