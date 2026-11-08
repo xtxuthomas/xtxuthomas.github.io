@@ -16,21 +16,18 @@ menu:
         - name: Research
           url: research/
           weight: 1
-        - name: Papers
-          url: papers/
+        - name: Interesting papers
+          url: reading/
           weight: 2
         - name: Data
           url: data/
-          weight: 4
-        - name: Links
+          weight: 3
+        - name: Useful links
           url: links/
+          weight: 4
+        - name: Contact
+          url: "/#contact"
           weight: 5
-        - name: Background
-          url: about/
-          weight: 6
-        - name: Interesting papers
-          url: reading/
-          weight: 7
 
 params:
     description: "Xiao-Tian Xu's personal page"
