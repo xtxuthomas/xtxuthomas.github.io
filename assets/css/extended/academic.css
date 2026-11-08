@@ -87,6 +87,6 @@ a:focus-visible { outline: 2px solid var(--darkcolor); outline-offset: 4px; }
 
 /* Give bibliography rows more room on the standalone reading-list page. */
 .main:has(> .reading-list-page) { max-width: none; }
-.reading-list-page .post-content { font-size: 1.2rem; }
+.reading-list-page .post-content { font-size: 1.3rem; }
 .reading-list-page .post-content li > a { color: #3d5878; }
 .dark .reading-list-page .post-content li > a { color: #a9c3e0; }
