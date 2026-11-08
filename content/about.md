@@ -7,13 +7,14 @@ hideMeta: true
 ## Education
 
 - **2019–2024:** PhD in Astrophysics, University of Bonn, Germany.
+  Thesis: [Comprehensive population synthesis predictions for massive binary stars in the Small Magellanic Cloud (PDF)](../theses/phd-thesis.pdf).
 - **2016–2019:** MSc in Astrophysics, Nanjing University, China.
+  Thesis: [中子星／黑洞X射线双星的形成与演化 (PDF, Chinese)](../theses/masters-thesis.pdf).
 - **2012–2016:** Bachelor's degree in Astronomy, Nanjing University, China.
 
 ## Research experience
 
-My CV lists my position as a Tsung-Dao Lee Postdoctoral Fellow at Shanghai Jiao Tong University, and guest research at Nanjing University (2025) and the University of Bonn (2024). I am also part of the Binarity at Low Metallicity (BLOeM) collaboration.
-
-My computational work uses MESA, Fortran, Python, and scientific Python tools to build detailed binary models and population synthesis calculations.
+- **2025:** Visitor at Nanjing University.
+- **2026–present:** Tsung-Dao Lee Postdoctoral Fellow at the Tsung-Dao Lee Institute, Shanghai Jiao Tong University.
 
 [Download my CV](../XXU_CV_v2.pdf)

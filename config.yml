@@ -77,8 +77,6 @@ params:
               url: data/
             - name: Useful links
               url: links/
-            - name: Background
-              url: about/
 
     assets:
         disableScrollBarStyle: true

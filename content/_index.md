@@ -3,7 +3,7 @@ title: "Xiao-Tian Xu"
 description: "Xiao-Tian Xu: massive binary evolution, compact objects, and gravitational-wave progenitors."
 ---
 
-I study the evolution of binary stars and the compact objects they leave behind. My research interests include **massive binary evolution, X-ray binaries, and gravitational waves**. I use detailed stellar and binary evolution models, together with population synthesis, to connect individual systems to their wider populations.
+I study the evolution of binary stars and the compact objects they leave behind. My research interests include **massive binary evolution, X-ray binaries, gravitational waves, and gamma-ray bursts**. I use detailed stellar and binary evolution models, together with population synthesis, to connect individual systems to their wider populations.
 
 I am a Tsung-Dao Lee Postdoctoral Fellow at the Tsung-Dao Lee Institute, Shanghai Jiao Tong University. I received my PhD in astrophysics from the University of Bonn in 2024, following my bachelor's and master's studies at Nanjing University.
 
