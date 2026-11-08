@@ -73,8 +73,6 @@ params:
               url: reading/
             - name: CV
               url: XXU_CV_v2.pdf
-            - name: Guitar
-              url: guitar.mp4
             - name: Data
               url: data/
             - name: Useful links
