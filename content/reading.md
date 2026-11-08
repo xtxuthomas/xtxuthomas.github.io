@@ -8,20 +8,6 @@ readingList: true
 <!-- Add one Markdown bullet per paper under its arXiv submission year.
      Link the title to https://arxiv.org/abs/ARXIV_ID and list up to five authors. -->
 
-## BLOeM publications
-
-- [Binarity at LOw Metallicity (BLOeM): massive star variability revealed using a novel software tool for point-spread function fitting of TESS images](https://arxiv.org/abs/2605.15757): Pieterjan J. Van Daele, Dominic M. Bowman, Roey Ovadia, Zehava Katabi, Julia Bodensteiner
-- [Multiplicity of Massive Stars at Low Metallicity: Early Results from the BLOeM Campaign](https://arxiv.org/abs/2607.27395): T. Shenar, J. Bodensteiner, M. Abdul-Masih, F. Backs, S. R. Berlanas
-- [Binarity at LOw Metallicity (BLOeM): Projected rotational velocities](https://arxiv.org/abs/2512.12102): D. J. Lennon, S. R. Berlanas, A. Herrero, N. Britavskiy, P. L. Dufton
-- [A high fraction of close massive binary stars at low metallicity](https://arxiv.org/abs/2509.12488): H. Sana, T. Shenar, J. Bodensteiner, N. Britavskiy, N. Langer
-- [Binarity at LOw Metallicity (BLOeM): Bayesian inference of natal kicks from inert black hole binaries](https://arxiv.org/abs/2504.16669): R. Willcox, P. Marchant, A. Vigna-Gómez, H. Sana, J. Bodensteiner
-- [Binarity at LOw Metallicity (BLOeM): Pipeline-Determined Physical Properties of OB Stars](https://arxiv.org/abs/2506.00117): J. M. Bestenlehner, Paul A. Crowther, V. A. Bronner, S. Simon-Diaz, D. J. Lennon
-- [Binarity at LOw Metallicity (BLOeM): Enhanced multiplicity of early B-type dwarfs and giants at Z = 0.2 Z☉](https://arxiv.org/abs/2503.21936): J. I. Villaseñor, H. Sana, L. Mahy, T. Shenar, J. Bodensteiner
-- [Binarity at LOw Metallicity (BLOeM): Multiplicity of early B-type supergiants in the Small Magellanic Cloud](https://arxiv.org/abs/2502.12239): N. Britavskiy, L. Mahy, D. J. Lennon, L. R. Patrick, H. Sana
-- [Binarity at LOw Metallicity (BLOeM): The multiplicity properties and evolution of BAF-type supergiants](https://arxiv.org/abs/2502.02644): L. R. Patrick, D. J. Lennon, F. Najarro, T. Shenar, J. Bodensteiner
-- [Binarity at Low Metallicity (BLOeM) -- Multiplicity properties of Oe and Be stars](https://arxiv.org/abs/2502.02641): J. Bodensteiner, T. Shenar, H. Sana, N. Britavskiy, P. A. Crowther
-- [Binarity at LOw Metallicity (BLOeM): a spectroscopic VLT monitoring survey of massive stars in the SMC](https://arxiv.org/abs/2407.14593): T. Shenar, J. Bodensteiner, H. Sana, P. A. Crowther, D. J. Lennon
-
 ## 2026
 
 - [The formation and evolution of Wolf-Rayet stars with temperature-dependent winds](https://arxiv.org/abs/2611.06650): Guy O. Flint, Avishai Gilkis, Tomer Shenar, Christopher A. Tout
@@ -130,6 +116,7 @@ readingList: true
 - [The double white dwarf merger model for the progenitors of SN 2021yfj-like events](https://arxiv.org/abs/2608.03303): Dongdong Liu, Chengyuan Wu, Takashi J. Moriya, Jiawen Ning, Zhengwei Liu
 - [Stellar mergers and chemical element mixing: implications for the metamorphic stellar evolution in AGN disks](https://arxiv.org/abs/2608.00242): Yanlong Shi, Xiaoshan Huang, Douglas N. C. Lin, Norman Murray
 - [On Bimodality in the Eccentricity Distribution of Galactic Double Neutron Stars](https://arxiv.org/abs/2608.00174): Aldana Grichener, Paul Disberg, Ryosuke Hirai, Ilya Mandel
+- [Multiplicity of Massive Stars at Low Metallicity: Early Results from the BLOeM Campaign](https://arxiv.org/abs/2607.27395): T. Shenar, J. Bodensteiner, M. Abdul-Masih, F. Backs, S. R. Berlanas
 - [The Stellar Winds Atlas II: Black Hole Formation at Solar Metallicity](https://arxiv.org/abs/2607.26147): Amedeo Romagnolo, Floor S. Broekgaarden, Alex C. Gormaz-Matamala, Lucas M. de Sá, Daniel Pauli
 - [Be/X-Ray Binaries: Phenomenology, Variability, and Accretion~Dynamics](https://arxiv.org/abs/2607.18980): Pablo Reig
 - [First double red giant Algol system with active mass transfer](https://arxiv.org/abs/2607.17552): Mikhail Kovalev, Hailiang Chen, Sufen Guo, Jiao Li, Hongwei Ge
@@ -160,6 +147,7 @@ readingList: true
 - [GWTC-5.0: Observations from the Second Part of the Fourth LIGO-Virgo-KAGRA Observing Run and Updates to the Gravitational-Wave Transient Catalog](https://arxiv.org/abs/2605.27225): The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration, A. G. Abac, A. Abe
 - [Mergers via failed common envelope as a route towards intermediate-mass stripped stars](https://arxiv.org/abs/2605.22911): Annachiara Picco, Pablo Marchant, Daniel Pauli, Hugues Sana
 - [Neutron star-companion interaction in core collapse supernovae. Population synthesis based on detailed binary evolution models](https://arxiv.org/abs/2605.21062): Andrea Ercolino, Norbert Langer, Avishay Gal-Yam, Abel Schootemeijer, Caroline Mannes
+- [Binarity at LOw Metallicity (BLOeM): massive star variability revealed using a novel software tool for point-spread function fitting of TESS images](https://arxiv.org/abs/2605.15757): Pieterjan J. Van Daele, Dominic M. Bowman, Roey Ovadia, Zehava Katabi, Julia Bodensteiner
 - [On the origin of the rotation of massive stars](https://arxiv.org/abs/2605.06872): André Oliva, Facundo D. Moyano, Luca Sciarini, Sylvia Ekström, Patrick Eggenberger
 - [Population synthesis of Be X-ray binaries in the Small Magellanic Cloud: Angular momentum recycling and stable mass transfer](https://arxiv.org/abs/2604.26693): Víctor López Oller, Boyuan Liu, Michela Mapelli, Stefano Rinaldi, Cecilia Sgalletta
 - [One's loss is (not) another's gain: Isotropic re-emission destabilizes mass transfer from radiative donor stars](https://arxiv.org/abs/2604.21459): K. D. Temmink, S. Justham, O. R. Pols
@@ -183,21 +171,30 @@ readingList: true
 - [Multi-messenger and time-domain astronomy in the 2040s](https://arxiv.org/abs/2512.14546): Samaya Nissanke, Nikhil Sarin, Chris Copperwheat, Sarah Antier, David Berge
 - [Can dwarf spheroidal galaxies host a central black hole ?](https://arxiv.org/abs/2512.14146): K. Aditya, A. Mangalam
 - [Hydrodynamical mass-loss rates for Very Massive Stars. I. Investigating the wind kink](https://arxiv.org/abs/2512.13782): Gautham N. Sabhahit, Jorick S. Vink, Andreas A. C. Sander
+- [Binarity at LOw Metallicity (BLOeM): Projected rotational velocities](https://arxiv.org/abs/2512.12102): D. J. Lennon, S. R. Berlanas, A. Herrero, N. Britavskiy, P. L. Dufton
 - [Hierarchical Black Hole Mergers in Nuclear Star Clusters: A Combined Dynamical-Secular Channel for GW231123-like Events](https://arxiv.org/abs/2511.13820): Bin Liu, Dieran Wang, Dong Lai
 - [A comprehensive grid of massive binary evolution models for the Galaxy - Surface properties of post-mass transfer stars](https://arxiv.org/abs/2510.19965): Harim Jin, Norbert Langer, Andrea Ercolino, Selma E. de Mink
 - [A search for black holes with metal-poor stellar companions: I. Survey sample selection and single epoch radial velocity follow-up](https://arxiv.org/abs/2510.17746): Casey Y. Lam, Joshua D. Simon, Kareem El-Badry, Howard Isaacson, Daniel D. Kelson
+- [A high fraction of close massive binary stars at low metallicity](https://arxiv.org/abs/2509.12488): H. Sana, T. Shenar, J. Bodensteiner, N. Britavskiy, N. Langer
 - [Beyond Hierarchical Mergers: Accretion-Driven Origins of Massive, Highly Spinning Black Holes in Dense Star Clusters](https://arxiv.org/abs/2509.05415): Fulya Kıroğlu, Kyle Kremer, Frederic A. Rasio
 - [Hierarchical Triples vs. Globular Clusters: Binary black hole merger eccentricity distributions compete and evolve with redshift](https://arxiv.org/abs/2507.23212): Andris Dorozsmai, Isobel M. Romero-Shaw, Aditya Vijaykumar, Silvia Toonen, Fabio Antonini
 - [Red Supergiants -- The Other Side of the H-R Diagram](https://arxiv.org/abs/2507.15965): Roberta M. Humphreys
 - [The Red and Yellow Hypergiants](https://arxiv.org/abs/2507.15962): Terry Jones
 - [Supernovae from stellar mergers and accretors of binary mass transfer: Implications for Type IIP, 1987A-like and interacting supernovae](https://arxiv.org/abs/2507.06391): F. R. N. Schneider, E. Laplace, Ph. Podsiadlowski
 - [Metal-poor single Wolf-Rayet stars: The interplay of optically thick winds and rotation](https://arxiv.org/abs/2507.00137): Lumen Boco, Michela Mapelli, Andreas A. C. Sander, Sofia Mesini, Varsha Ramachandran
+- [Binarity at LOw Metallicity (BLOeM): Pipeline-Determined Physical Properties of OB Stars](https://arxiv.org/abs/2506.00117): J. M. Bestenlehner, Paul A. Crowther, V. A. Bronner, S. Simon-Diaz, D. J. Lennon
+- [Binarity at LOw Metallicity (BLOeM): Bayesian inference of natal kicks from inert black hole binaries](https://arxiv.org/abs/2504.16669): R. Willcox, P. Marchant, A. Vigna-Gómez, H. Sana, J. Bodensteiner
 - [HIP 15429: A newborn Be star on an eccentric binary orbit](https://arxiv.org/abs/2504.06973): Johanna Müller-Horn, Kareem El-Badry, Hans-Walter Rix, Tomer Shenar, Rhys Seeburger
+- [Binarity at LOw Metallicity (BLOeM): Enhanced multiplicity of early B-type dwarfs and giants at Z = 0.2 Z☉](https://arxiv.org/abs/2503.21936): J. I. Villaseñor, H. Sana, L. Mahy, T. Shenar, J. Bodensteiner
+- [Binarity at LOw Metallicity (BLOeM): Multiplicity of early B-type supergiants in the Small Magellanic Cloud](https://arxiv.org/abs/2502.12239): N. Britavskiy, L. Mahy, D. J. Lennon, L. R. Patrick, H. Sana
+- [Binarity at LOw Metallicity (BLOeM): The multiplicity properties and evolution of BAF-type supergiants](https://arxiv.org/abs/2502.02644): L. R. Patrick, D. J. Lennon, F. Najarro, T. Shenar, J. Bodensteiner
+- [Binarity at Low Metallicity (BLOeM) -- Multiplicity properties of Oe and Be stars](https://arxiv.org/abs/2502.02641): J. Bodensteiner, T. Shenar, H. Sana, N. Britavskiy, P. A. Crowther
 
 ## 2024
 
 - [Channels of Stellar-mass Black Hole Formation](https://arxiv.org/abs/2412.07831): Adam Burrows, Tianshu Wang, David Vartanyan
 - [Thorne-Żytkow Objects](https://arxiv.org/abs/2410.02896): Anna J. G. O'Grady, Takashi J. Moriya, Mathieu Renzo, Alejandro Vigna-Gómez
+- [Binarity at LOw Metallicity (BLOeM): a spectroscopic VLT monitoring survey of massive stars in the SMC](https://arxiv.org/abs/2407.14593): T. Shenar, J. Bodensteiner, H. Sana, P. A. Crowther, D. J. Lennon
 
 ## 2023
 
