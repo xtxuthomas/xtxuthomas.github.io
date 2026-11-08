@@ -19,9 +19,6 @@ menu:
         - name: Papers
           url: papers/
           weight: 2
-        - name: Teaching
-          url: courses/
-          weight: 3
         - name: Data
           url: data/
           weight: 4
@@ -78,8 +75,6 @@ params:
               url: XXU_CV_v2.pdf
             - name: Guitar
               url: guitar.mp4
-            - name: Teaching
-              url: courses/
             - name: Data
               url: data/
             - name: Useful links
