@@ -83,3 +83,4 @@ a:focus-visible { outline: 2px solid var(--darkcolor); outline-offset: 4px; }
 }
 
 #codes-and-data li + li { margin-top: 0.85rem; }
+.lbv-animation figcaption a { text-decoration: underline; }
