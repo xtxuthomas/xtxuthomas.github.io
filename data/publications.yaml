@@ -263,3 +263,13 @@
       url: "https://arxiv.org/abs/2511.15347"
     - label: "PDF"
       url: "https://arxiv.org/pdf/2511.15347"
+- title: "Can isolated binaries form unequal-mass binary black-hole mergers with a high-spin primary black hole?"
+  authors: "Xiao-Tian Xu, Dong Lai, and Bin Liu"
+  year: 2026
+  group: "preprint"
+  selected: true
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2609.05128"
+    - label: "PDF"
+      url: "https://arxiv.org/pdf/2609.05128"
