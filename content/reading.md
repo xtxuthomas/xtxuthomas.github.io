@@ -2,6 +2,7 @@
 title: "Reading lists"
 description: "An astrophysics reading list grouped by arXiv submission year."
 hideMeta: true
+readingList: true
 ---
 
 <!-- Add one Markdown bullet per paper under its arXiv submission year.
