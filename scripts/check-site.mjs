@@ -30,7 +30,7 @@ for (const file of htmlFiles) {
     if (!existsSync(target)) failures.push(`${pagePath}: missing ${raw}`);
   }
 }
-for (const route of ['index.html','research/index.html','papers/index.html','courses/index.html','data/index.html','links/index.html','about/index.html']) {
+for (const route of ['index.html','research/index.html','papers/index.html','courses/index.html','data/index.html','links/index.html']) {
   if (!existsSync(join(root, route))) failures.push(`Missing required page: ${route}`);
 }
 const papers = readFileSync(join(root, 'papers/index.html'), 'utf8');

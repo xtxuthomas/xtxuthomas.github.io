@@ -14,7 +14,7 @@ This is your existing Hugo + PaperMod site, expanded without changing its theme.
 | Models and data links | `content/data/_index.md` |
 | Useful links | `content/links.md` |
 | Interesting papers / reading list | `content/reading.md` |
-| Background | `content/about.md` |
+| Education and research experience | `content/_index.md` (About me panel) |
 | Photo, CV, research PDF, guitar video | `static/` |
 | Small visual adjustments | `assets/css/extended/academic.css` |
 

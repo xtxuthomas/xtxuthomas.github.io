@@ -25,5 +25,5 @@ Put newer dates above older dates. This comment is not shown on the page.
 
 ## Other reading lists
 
-- [Dong Lai’s group meeting papers](https://donglai6.github.io/gp.html) — a dated collection of papers for group discussion.
+- [Dong Lai’s group meeting papers](https://donglai6.github.io/gp.html)
 - [New astrophysics papers on arXiv](https://arxiv.org/list/astro-ph/new)

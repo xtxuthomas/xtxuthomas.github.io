@@ -5,13 +5,24 @@ description: "Xiao-Tian Xu: massive binary evolution, compact objects, and gravi
 
 <section class="home-panel" id="about-me">
 
-## About me {#heading-about-me}
+## About me ([ORCID](https://orcid.org/0000-0001-9565-9462)) {#heading-about-me}
 
 I study the evolution of binary stars and the compact objects they leave behind. My research interests include **massive binary evolution, X-ray binaries, gravitational waves, and gamma-ray bursts**. I use detailed stellar and binary evolution models, together with population synthesis, to connect individual systems to their wider populations.
 
 I am a Tsung-Dao Lee Postdoctoral Fellow at the Tsung-Dao Lee Institute, Shanghai Jiao Tong University. I received my PhD in astrophysics from the University of Bonn in 2024, following my bachelor's and master's studies at Nanjing University.
 
-[Background and education](about/) · [ORCID](https://orcid.org/0000-0001-9565-9462)
+### Education
+
+- **2019–2024:** PhD in Astrophysics, University of Bonn, Germany.
+  Thesis: [Comprehensive population synthesis predictions for massive binary stars in the Small Magellanic Cloud (PDF)](theses/phd-thesis.pdf).
+- **2016–2019:** MSc in Astrophysics, Nanjing University, China.
+  Thesis: [中子星／黑洞X射线双星的形成与演化 (PDF, Chinese)](theses/masters-thesis.pdf).
+- **2012–2016:** Bachelor's degree in Astronomy, Nanjing University, China.
+
+### Research experience
+
+- **2025:** Visitor at Nanjing University.
+- **2026–present:** Tsung-Dao Lee Postdoctoral Fellow at the Tsung-Dao Lee Institute, Shanghai Jiao Tong University.
 
 </section>
 
@@ -47,10 +58,13 @@ I am a Tsung-Dao Lee Postdoctoral Fellow at the Tsung-Dao Lee Institute, Shangha
 
 ## Codes and Research Data {#heading-codes-and-data}
 
-- [Monte Carlo tool for modelling double neutron star merger offsets](https://zenodo.org/records/22765322)
-- [MESA template for stable mass transfer and merging black hole binaries](https://zenodo.org/records/21785708)
-- [Scripts and inlist files for computing binary models with MESA](https://zenodo.org/records/10017597)
-- [MPA Stellar Model Grid Repository](https://wwwmpa.mpa-garching.mpg.de/stellgrid/)
+- [Monte Carlo tool for modelling double neutron star merger offsets](https://zenodo.org/records/22765322) — [Large Offsets of Double-neutron-star Mergers](https://iopscience.iop.org/article/10.3847/1538-4357/aeb027)
+- [MESA template for stable mass transfer and merging black hole binaries](https://zenodo.org/records/21785708) — [The formation of merging black holes via stable mass transfer in massive binary stars](https://www.nature.com/articles/s41550-026-03000-7)
+- [Scripts and inlist files for computing binary models with MESA](https://zenodo.org/records/10017597) — [SMC population synthesis: detailed evolution models](https://doi.org/10.1051/0004-6361/202554786) and [ComBinE predictions](https://doi.org/10.1051/0004-6361/202554874)
+- [MPA Stellar Model Grid Repository](https://wwwmpa.mpa-garching.mpg.de/stellgrid/) — [Stellar mergers as the origin of the blue main-sequence band in young star clusters](https://www.nature.com/articles/s41550-021-01597-5)
+- [BOMBI (Bonn–MPA Binary Interface)](https://www.bonnmpainterface.com/)
+- [BONNSAI](https://www.astro.uni-bonn.de/stars/bonnsai/)
+- [PoWR model grids](https://www.astro.physik.uni-potsdam.de/PoWR/powrgrid1.php)
 
 </section>
 
