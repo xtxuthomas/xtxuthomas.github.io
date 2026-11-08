@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Profanity in Early Irish" 
 date: 1990-06-16
 tags: ["Irish","philology","profanity","Celtic languages","language modernization"]

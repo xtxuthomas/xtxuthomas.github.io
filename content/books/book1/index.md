@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Portugese Irregular Verbs" 
 date: 1997-01-01
 tags: ["Portugese","irregular verbs","philology"]

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "The Finer Points of Sausage Dogs" 
 date: 2004-12-28
 tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]

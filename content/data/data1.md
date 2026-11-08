@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "List of Irregular Verbs Across Romance Languages" 
 date: 2013-03-07
 tags: ["Romance languages","philology","irregular verbs","Portuguese","Italian","French","Spanish","simulations","dataset","python"]

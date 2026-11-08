@@ -1,0 +1,25 @@
+/* Small additions to the original PaperMod academic theme. */
+.main .profile {
+    min-height: auto;
+    padding: 32px 0 24px;
+}
+.profile .profile_inner { gap: 12px; }
+.profile img { object-fit: cover; }
+.profile-subtitle { color: var(--secondary); }
+.home-content { font-size: 1rem; }
+.home-content h2 { font-size: 1.4rem; margin-top: 36px; }
+.publications { padding-left: 0 !important; list-style: none; }
+.publications li { margin: 0 0 24px; }
+.publications p { margin: 0 0 5px; }
+.paper-title { font-weight: 500; }
+.paper-meta { color: var(--secondary); font-size: 0.9em; }
+.paper-links { display: flex; flex-wrap: wrap; gap: 8px 18px; font-size: 0.9em; }
+.post-content a { overflow-wrap: anywhere; }
+a:focus-visible { outline: 2px solid var(--darkcolor); outline-offset: 4px; }
+#menu { flex-wrap: wrap; white-space: normal; }
+@media (max-width: 600px) {
+    .profile .profile_inner h1 { font-size: 2rem; }
+    .main .profile { padding-top: 20px; }
+    #menu { gap: 0 18px; }
+    #menu li + li { margin-inline-start: 0; }
+}

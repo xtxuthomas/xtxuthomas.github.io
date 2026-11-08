@@ -10,17 +10,30 @@ pagination:
 taxonomies:
     tag: tags
 
+# Navigation: add a name, URL, and weight to add another page.
 menu:
     main:
+        - name: Research
+          url: research/
+          weight: 1
         - name: Papers
           url: papers/
           weight: 2
-        - name: Courses
+        - name: Teaching
           url: courses/
           weight: 3
         - name: Data
           url: data/
-          weight: 4 
+          weight: 4
+        - name: Links
+          url: links/
+          weight: 5
+        - name: Background
+          url: about/
+          weight: 6
+        - name: Interesting papers
+          url: reading/
+          weight: 7
 
 params:
     description: "Xiao-Tian Xu's personal page"
@@ -49,36 +62,30 @@ params:
     profileMode:
           enabled: true
           title: Xiao-Tian Xu (徐啸天)
-          subtitle: "This page is under construction."
+          subtitle: "Astrophysics · Tsung-Dao Lee Institute, Shanghai Jiao Tong University"
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
+          # The short row of buttons beneath your name.
           buttons:
-         #   - name: Papers
-         #     url: papers/
-         #   - name: Data
-         #     url: data/
-         #   - name: Books
-         #     url: books/
-         #   - name: Courses
-         #     url: courses/
-         #   - name: Tags
-         #     url: tags/
-         #   - name: Archive
-         #     url: archive/
-            - name: Resarch
-              url: XXU_Works_v2.pdf
+            - name: Research
+              url: research/
+            - name: Papers
+              url: papers/
+            - name: Interesting papers
+              url: reading/
             - name: CV
               url: XXU_CV_v2.pdf
             - name: Guitar
               url: guitar.mp4
-#    socialIcons:
-#        - name: CV
-#          url: cv.pdf
-#        - name: Email
-#          url: mailto:igelfeld@regensburg.edu
-#        - name: Location
-#          url: location/
+            - name: Teaching
+              url: courses/
+            - name: Data
+              url: data/
+            - name: Useful links
+              url: links/
+            - name: Background
+              url: about/
 
     assets:
         disableScrollBarStyle: true

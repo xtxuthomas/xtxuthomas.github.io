@@ -1,0 +1,243 @@
+# Source: static/XXU_Works_v2.pdf (December 2025). Order here is display order.
+- title: "Tracing the Physical Lineage of GRB 211211A: Population Constraints on NS–WD Merger Gamma-Ray Bursts"
+  authors: "Xiao-Tian Xu, Bin-Bin Zhang, Yun-Lang Guo, and Xiang-Dong Li"
+  year: 2025
+  group: "lead"
+  selected: true
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2508.10551"
+    - label: "PDF"
+      url: "https://arxiv.org/pdf/2508.10551"
+    - label: "Journal"
+      url: "https://doi.org/10.3847/1538-4357/ae1831"
+- title: "A statistical study of type II outbursts of XRPs: Brighter accreting pulsars rotate faster"
+  authors: "Shan-Shan Weng, Xiao-Tian Xu (corresponding author), Han-Long Peng, et al."
+  year: 2025
+  group: "lead"
+  selected: false
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2509.21103"
+    - label: "PDF"
+      url: "https://arxiv.org/pdf/2509.21103"
+    - label: "Journal"
+      url: "https://doi.org/10.1007/s11433-025-2818-y"
+- title: "Populations of evolved massive binary stars in the Small Magellanic Cloud I: Predictions from detailed binary evolution models"
+  authors: "Xiao-Tian Xu, C. Schürmann, N. Langer, et al."
+  year: 2025
+  group: "lead"
+  selected: true
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2503.23876"
+    - label: "PDF"
+      url: "https://arxiv.org/pdf/2503.23876"
+- title: "Populations of evolved massive binary stars in the Small Magellanic Cloud II: predictions from the rapid binary evolution code ComBinE"
+  authors: "C. Schürmann, Xiao-Tian Xu (corresponding author), N. Langer, et al."
+  year: 2025
+  group: "lead"
+  selected: false
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2503.23878"
+    - label: "PDF"
+      url: "https://arxiv.org/pdf/2503.23878"
+- title: "Back to the Starting Point: on the Simulation of Initial Magnetic Fields and Spin Periods of Non-accretion Pulsars"
+  authors: "Kun Xu, Hao-Ran Yang, Ying-Han Mao, Xiao-Tian Xu (corresponding author), Xiang-Dong Li, and Jifeng Liu"
+  year: 2023
+  group: "lead"
+  selected: false
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2304.03530"
+    - label: "PDF"
+      url: "https://arxiv.org/pdf/2304.03530"
+    - label: "Journal"
+      url: "https://doi.org/10.3847/1538-4357/acc8ce"
+- title: "X-ray emission from BH+O star binaries expected to descend from the observed galactic WR+O binaries"
+  authors: "K. Sen, Xiao-Tian Xu (co-first author), N. Langer, et al."
+  year: 2021
+  group: "lead"
+  selected: true
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2106.01395"
+    - label: "PDF"
+      url: "https://arxiv.org/pdf/2106.01395"
+    - label: "Journal"
+      url: "https://doi.org/10.1051/0004-6361/202141214"
+- title: "On the Bimodal Spin Period Distribution of Be/X-ray Pulsars"
+  authors: "Xiao-Tian Xu and Xiang-Dong Li"
+  year: 2019
+  group: "lead"
+  selected: false
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/1901.04707"
+    - label: "PDF"
+      url: "https://arxiv.org/pdf/1901.04707"
+    - label: "Journal"
+      url: "https://doi.org/10.3847/1538-4357/aafee0"
+- title: "A Circumbinary Disk Model for the Rapid Orbital Shrinkage in Black Hole Low-mass X-Ray Binaries"
+  authors: "Xiao-Tian Xu and Xiang-Dong Li"
+  year: 2018
+  group: "lead"
+  selected: false
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/1804.07914"
+    - label: "PDF"
+      url: "https://arxiv.org/pdf/1804.07914"
+    - label: "Journal"
+      url: "https://doi.org/10.3847/1538-4357/aabe91"
+- title: "Are There Pre-Main-Sequence/Black Hole X-ray Binaries?"
+  authors: "Xiao-Tian Xu and Xiang-Dong Li"
+  year: 2018
+  group: "lead"
+  selected: false
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/1809.04269"
+    - label: "PDF"
+      url: "https://arxiv.org/pdf/1809.04269"
+    - label: "Journal"
+      url: "https://doi.org/10.1093/mnras/sty2146"
+- title: "Subgiants in NGC 188 Reveal that Rotationally Induced Mixing Creates the Main Sequence Li-Dip"
+  authors: "Qinghui Sun, Constantine P. Deliyannis, et al. (including Xiao-Tian Xu)"
+  year: 2025
+  group: "collaboration"
+  selected: false
+  links:
+    - label: "Journal"
+      url: "https://doi.org/10.1038/s41467-025-64724-0"
+- title: "Binarity at Low Metallicity (BLOeM): Multiplicity properties of Oe and Be stars"
+  authors: "J. Bodensteiner, T. Shenar, et al. (including Xiao-Tian Xu)"
+  year: 2025
+  group: "collaboration"
+  selected: false
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2502.02641"
+    - label: "PDF"
+      url: "https://arxiv.org/pdf/2502.02641"
+    - label: "Journal"
+      url: "https://doi.org/10.1051/0004-6361/202452623"
+- title: "Stripped helium-star and compact object binaries in coeval populations — predictions based on detailed binary evolution models"
+  authors: "C. Wang, J. Bodensteiner, Xiao-Tian Xu, et al."
+  year: 2024
+  group: "collaboration"
+  selected: false
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2410.10283"
+    - label: "PDF"
+      url: "https://arxiv.org/pdf/2410.10283"
+    - label: "Journal"
+      url: "https://doi.org/10.3847/2041-8213/ad86b7"
+- title: "Whispering in the dark: Faint X-ray emission from black holes with OB star companions"
+  authors: "K. Sen, I. E. Mellah, N. Langer, Xiao-Tian Xu, et al."
+  year: 2024
+  group: "collaboration"
+  selected: false
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2406.08596"
+    - label: "PDF"
+      url: "https://arxiv.org/pdf/2406.08596"
+    - label: "Journal"
+      url: "https://doi.org/10.1051/0004-6361/202450940"
+- title: "Unequal-mass binary black hole mergers in stable mass transfer formation channel"
+  authors: "A. Olejak, J. Klencki, Xiao-Tian Xu, et al."
+  year: 2024
+  group: "collaboration"
+  selected: false
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2404.12426"
+    - label: "PDF"
+      url: "https://arxiv.org/pdf/2404.12426"
+    - label: "Journal"
+      url: "https://doi.org/10.1051/0004-6361/202450480"
+- title: "An absence of binary companions to Wolf-Rayet stars in the Small Magellanic Cloud"
+  authors: "A. Schootemeijer, T. Shenar, et al. (including Xiao-Tian Xu)"
+  year: 2024
+  group: "collaboration"
+  selected: false
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2406.01420"
+    - label: "PDF"
+      url: "https://arxiv.org/pdf/2406.01420"
+    - label: "Journal"
+      url: "https://doi.org/10.1051/0004-6361/202449978"
+- title: "Stellar mergers as the origin of the blue main-sequence band in young star clusters"
+  authors: "C. Wang, N. Langer, et al. (including Xiao-Tian Xu)"
+  year: 2022
+  group: "collaboration"
+  selected: false
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2202.05552"
+    - label: "PDF"
+      url: "https://arxiv.org/pdf/2202.05552"
+    - label: "Journal"
+      url: "https://doi.org/10.1038/s41550-021-01597-5"
+- title: "Explodability fluctuations of massive stellar cores enable asymmetric compact object mergers like GW190814"
+  authors: "J. Antoniadis, D. R. Aguilera-Dena, et al. (including Xiao-Tian Xu)"
+  year: 2022
+  group: "collaboration"
+  selected: false
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2110.01393"
+    - label: "PDF"
+      url: "https://arxiv.org/pdf/2110.01393"
+    - label: "Journal"
+      url: "https://doi.org/10.1051/0004-6361/202142322"
+- title: "Detailed models of interacting short-period massive binary stars"
+  authors: "K. Sen, N. Langer, et al. (including Xiao-Tian Xu)"
+  year: 2022
+  group: "collaboration"
+  selected: false
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2111.03329"
+    - label: "PDF"
+      url: "https://arxiv.org/pdf/2111.03329"
+    - label: "Journal"
+      url: "https://doi.org/10.1051/0004-6361/202142574"
+- title: "The spins of stripped B stars support magnetic internal angular momentum transport"
+  authors: "C. Schürmann, N. Langer, Xiao-Tian Xu, and C. Wang"
+  year: 2022
+  group: "collaboration"
+  selected: false
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2208.03129"
+    - label: "PDF"
+      url: "https://arxiv.org/pdf/2208.03129"
+    - label: "Journal"
+      url: "https://doi.org/10.1051/0004-6361/202244153"
+- title: "Properties of OB star-black hole systems derived from detailed binary evolution models"
+  authors: "N. Langer, C. Schürmann, et al. (including Xiao-Tian Xu)"
+  year: 2020
+  group: "collaboration"
+  selected: false
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/1912.09826"
+    - label: "PDF"
+      url: "https://arxiv.org/pdf/1912.09826"
+    - label: "Journal"
+      url: "https://doi.org/10.1051/0004-6361/201937375"
+- title: "Interacting binaries on the Main Sequence as in-situ tracers of mass transfer efficiency and stability"
+  authors: "K. Sen, M. Renzo, et al. (including Xiao-Tian Xu)"
+  year: 2025
+  group: "preprint"
+  selected: false
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2511.15347"
+    - label: "PDF"
+      url: "https://arxiv.org/pdf/2511.15347"

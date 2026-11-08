@@ -1,0 +1,16 @@
+{{/* The profile comes from config.yml; the page body is ordinary Markdown. */}}
+<div class="profile">
+  {{ with site.Params.profileMode }}
+  <div class="profile_inner">
+    <img src="{{ .imageUrl | relURL }}" alt="Xiao-Tian Xu’s hedgehog profile image" width="160" height="160">
+    <h1>{{ .title }}</h1>
+    <p class="profile-subtitle">{{ .subtitle | markdownify }}</p>
+    <div class="buttons">
+      {{ range .buttons }}
+      <a class="button" href="{{ .url | relURL }}"><span class="button-inner">{{ .name }}</span></a>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
+</div>
+<div class="post-content home-content">{{ .Content }}</div>

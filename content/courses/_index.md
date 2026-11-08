@@ -1,4 +1,13 @@
 ---
-title: "Courses"
-description: "Courses on philology by Professor Dr von Igelfeld and esteemed colleagues. For undergraduate and graduate students."
+title: "Teaching"
+description: "Teaching experience of Xiao-Tian Xu."
 ---
+
+## University of Bonn
+
+I served as a teaching assistant for:
+
+- **Stellar Structure and Evolution** — 2020 and 2021.
+- **Nucleosynthesis** — 2021.
+
+[Background and education](../about/) · [CV (PDF)](../XXU_CV_v2.pdf)

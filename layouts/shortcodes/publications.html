@@ -1,0 +1,21 @@
+{{/* One shared list. Use selected=true on the homepage, group elsewhere. */}}
+{{ $papers := site.Data.publications }}
+{{ if .Get "selected" }}
+  {{ $papers = where $papers "selected" true }}
+{{ end }}
+{{ with .Get "group" }}
+  {{ $papers = where $papers "group" . }}
+{{ end }}
+<ul class="publications">
+  {{ range $papers }}
+  <li>
+    <p class="paper-title">{{ .title }}</p>
+    <p class="paper-meta">{{ .authors }} · {{ .year }}</p>
+    <p class="paper-links">
+      {{ range .links }}
+      <a href="{{ .url | relURL }}">{{ .label }}</a>
+      {{ end }}
+    </p>
+  </li>
+  {{ end }}
+</ul>
