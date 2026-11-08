@@ -273,3 +273,11 @@
       url: "https://arxiv.org/abs/2609.05128"
     - label: "PDF"
       url: "https://arxiv.org/pdf/2609.05128"
+- title: "Large Offsets of Double-neutron-star Mergers: Degeneracies and Implications for Host Associations"
+  authors: "Xiao-Tian Xu, Bin-Bin Zhang, Wenjie Wu, and Suoning Wang"
+  year: 2026
+  group: "lead"
+  selected: true
+  links:
+    - label: "The Astrophysical Journal"
+      url: "https://iopscience.iop.org/article/10.3847/1538-4357/aeb027"
