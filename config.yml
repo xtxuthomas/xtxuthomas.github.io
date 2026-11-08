@@ -10,24 +10,33 @@ pagination:
 taxonomies:
     tag: tags
 
-# Navigation: add a name, URL, and weight to add another page.
+# Shared navigation for the homepage tabs and the inner-page menu.
 menu:
     main:
-        - name: Research
-          url: research/
+        - name: About me
+          url: "/#about-me"
           weight: 1
-        - name: Interesting papers
-          url: reading/
+        - name: Research
+          url: "/#research"
           weight: 2
-        - name: Data
-          url: data/
+        - name: My Papers
+          url: "/#my-papers"
           weight: 3
-        - name: Useful links
-          url: links/
+        - name: Interesting papers
+          url: "/#interesting-papers"
           weight: 4
+        - name: Codes and data
+          url: "/#codes-and-data"
+          weight: 5
+        - name: Useful links
+          url: "/#useful-links"
+          weight: 6
+        - name: Beyond research
+          url: "/#beyond-research"
+          weight: 7
         - name: Contact
           url: "/#contact"
-          weight: 5
+          weight: 8
 
 params:
     description: "Xiao-Tian Xu's personal page"
@@ -60,18 +69,6 @@ params:
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          # The short row of buttons beneath your name.
-          buttons:
-            - name: Research
-              url: research/
-            - name: Interesting papers
-              url: reading/
-            - name: Data
-              url: data/
-            - name: Useful links
-              url: links/
-            - name: Contact
-              url: "#contact"
 
     assets:
         disableScrollBarStyle: true

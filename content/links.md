@@ -6,7 +6,7 @@ hideMeta: true
 
 ## Literature
 
-- [Interesting papers](../reading/) — reading and discussion list.
+- [Interesting papers](/#interesting-papers) — reading and discussion list.
 
 - [arXiv: astrophysics](https://arxiv.org/archive/astro-ph) — preprints and new research.
 - [NASA Astrophysics Data System (ADS)](https://ui.adsabs.harvard.edu/) — literature and citation searches.

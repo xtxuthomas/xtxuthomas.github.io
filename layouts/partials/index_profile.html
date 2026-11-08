@@ -5,12 +5,15 @@
     <img src="{{ .imageUrl | relURL }}" alt="Xiao-Tian Xu’s hedgehog profile image" width="160" height="160">
     <h1>{{ .title }}</h1>
     <p class="profile-subtitle">{{ .subtitle | markdownify }}</p>
-    <div class="buttons">
-      {{ range .buttons }}
-      <a class="button" href="{{ .url | relURL }}"><span class="button-inner">{{ .name }}</span></a>
-      {{ end }}
-    </div>
   </div>
   {{ end }}
 </div>
-<div class="post-content home-content">{{ .Content }}</div>
+<div class="home-tabs">
+  <nav class="home-tabs-menu" aria-label="Homepage sections">
+    {{ range site.Menus.main }}
+    <a data-home-tab href="#{{ (urls.Parse .URL).Fragment }}">{{ .Name }}</a>
+    {{ end }}
+  </nav>
+  <div class="post-content home-content">{{ .Content }}</div>
+</div>
+<script type="module" src="{{ "js/home-tabs.js" | relURL }}"></script>

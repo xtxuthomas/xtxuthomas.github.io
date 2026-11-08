@@ -37,16 +37,11 @@ For a list of links, put each on a line beginning with `- `:
 
 Upload a PDF to `static/notes.pdf`, then link to it with `[Download notes](/notes.pdf)`. Do not include `static/` in the URL. Your site is hosted at the domain root, so `/research/` works from any page. Existing relative links also work with the local preview.
 
-## Edit the buttons beneath your name
+## Edit the homepage tabs
 
-Open `config.yml` and find `params` → `profileMode` → `buttons`. Each button has a label (`name`) and destination (`url`). Change their order by moving the two lines together. For example:
+Edit the entries under `menu: main:` in `config.yml`. Each entry supplies a label, a homepage anchor such as `/#research`, and a weight. Lower weights appear first. This list controls both the homepage tabs and the menu on other pages.
 
-```yaml
-            - name: Useful links
-              url: links/
-```
-
-To add another button, copy those two lines, keep the indentation, and change the label and destination. Create the destination page first. An external destination can use a full `https://...` URL. Buttons wrap onto additional rows on small screens.
+Edit the panel text in `content/_index.md`. The section ID must match the anchor in `config.yml`. The Interesting papers and Useful links panels display the content of `content/reading.md` and `content/links.md`, respectively.
 
 ## Add a figure or photo
 
@@ -136,15 +131,7 @@ A short introduction to my notes.
 
 2. Put the corresponding `notes.pdf` in `static/` before using that example link.
 3. The new page is available at `/notes/`.
-4. Link to it from the homepage using `[Notes](notes/)`, or add this entry under `menu: main:` in `config.yml`, aligned with the other entries:
-
-```yaml
-        - name: Notes
-          url: notes/
-          weight: 7
-```
-
-Lower weights appear first. The original theme hides the top navigation on the homepage; homepage links and buttons are edited separately. Other pages show the navigation.
+4. Link to it from the relevant homepage panel using `[Notes](notes/)`. To make it a homepage tab, add a panel in `content/_index.md` and a matching anchor under `menu: main:`.
 
 Alternatively, run `hugo new content notes.md`. The supplied archetype creates a draft: remove `draft: true` or set it to `false` when ready. Drafts are excluded from the normal site.
 

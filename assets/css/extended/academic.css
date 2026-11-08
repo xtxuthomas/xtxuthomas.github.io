@@ -23,3 +23,33 @@ a:focus-visible { outline: 2px solid var(--darkcolor); outline-offset: 4px; }
     #menu { gap: 0 18px; }
     #menu li + li { margin-inline-start: 0; }
 }
+
+/* Homepage tabs and their content share the space below the profile header. */
+.main:has(.home-tabs) { max-width: 980px; }
+.home-tabs {
+    border-top: 1px solid #111;
+    padding-top: 24px;
+    display: grid;
+    grid-template-columns: minmax(155px, 1fr) minmax(0, 4fr);
+    gap: 32px;
+}
+.home-tabs-menu {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+.home-tabs-menu a {
+    padding: 8px 12px;
+    border-radius: var(--radius);
+}
+.home-tabs-menu a:hover { background: var(--code-bg); }
+.home-tabs-menu a[aria-selected="true"] {
+    background: var(--tertiary);
+    font-weight: 600;
+}
+.home-panel[hidden] { display: none; }
+.home-content .home-panel > h2:first-child { margin-top: 0; }
+@media (max-width: 600px) {
+    .home-tabs { grid-template-columns: minmax(0, 1fr); gap: 20px; }
+    .home-tabs-menu { flex-direction: row; flex-wrap: wrap; }
+}
