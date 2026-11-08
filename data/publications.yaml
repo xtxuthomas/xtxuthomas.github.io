@@ -7,6 +7,8 @@
   links:
     - label: "Nature Astronomy"
       url: "https://www.nature.com/articles/s41550-026-03000-7"
+    - label: "SciX"
+      url: "https://scixplorer.org/abs/2026NatAs.tmp..231X/abstract"
 - title: "Tracing the Physical Lineage of GRB 211211A: Population Constraints on NS–WD Merger Gamma-Ray Bursts"
   authors: "Xiao-Tian Xu, Bin-Bin Zhang, Yun-Lang Guo, and Xiang-Dong Li"
   year: 2025
@@ -285,3 +287,5 @@
   links:
     - label: "The Astrophysical Journal"
       url: "https://iopscience.iop.org/article/10.3847/1538-4357/aeb027"
+    - label: "SciX"
+      url: "https://scixplorer.org/abs/2026arXiv261005226X/abstract"
