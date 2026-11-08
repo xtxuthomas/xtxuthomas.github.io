@@ -5,7 +5,7 @@ description: "Publications and preprints by Xiao-Tian Xu."
 
 [Publication summary (PDF)](../XXU_Works_v2.pdf) · [ORCID](https://orcid.org/0000-0001-9565-9462)
 
-This list is based on my research summary uploaded in December 2025. Follow the paper links for current publication details.
+This list includes publications added after my December 2025 research summary. Follow the paper links for current publication details.
 
 ## First, co-first, and corresponding-author papers
 

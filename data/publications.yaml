@@ -1,9 +1,17 @@
 # Source: static/XXU_Works_v2.pdf (December 2025). Order here is display order.
+- title: "The formation of merging black holes via stable mass transfer in massive binary stars"
+  authors: "Xiao-Tian Xu, Norbert Langer, Jakub Klencki, Chen Wang, and Xiang-Dong Li"
+  year: 2026
+  group: "lead"
+  selected: true
+  links:
+    - label: "Nature Astronomy"
+      url: "https://www.nature.com/articles/s41550-026-03000-7"
 - title: "Tracing the Physical Lineage of GRB 211211A: Population Constraints on NS–WD Merger Gamma-Ray Bursts"
   authors: "Xiao-Tian Xu, Bin-Bin Zhang, Yun-Lang Guo, and Xiang-Dong Li"
   year: 2025
   group: "lead"
-  selected: true
+  selected: false
   links:
     - label: "arXiv"
       url: "https://arxiv.org/abs/2508.10551"
@@ -33,16 +41,30 @@
       url: "https://arxiv.org/abs/2503.23876"
     - label: "PDF"
       url: "https://arxiv.org/pdf/2503.23876"
+    - label: "SciX"
+      url: "https://scixplorer.org/abs/2025A%26A...704A.218X/abstract"
 - title: "Populations of evolved massive binary stars in the Small Magellanic Cloud II: predictions from the rapid binary evolution code ComBinE"
   authors: "C. Schürmann, Xiao-Tian Xu (corresponding author), N. Langer, et al."
   year: 2025
   group: "lead"
-  selected: false
+  selected: true
   links:
     - label: "arXiv"
       url: "https://arxiv.org/abs/2503.23878"
     - label: "PDF"
       url: "https://arxiv.org/pdf/2503.23878"
+    - label: "SciX"
+      url: "https://scixplorer.org/abs/2025A%26A...704A.219S/abstract"
+- title: "Evolution of wide O star binaries through their luminous blue variable stage: Population synthesis with mass-ejection-driven orbital evolution"
+  authors: "Xiao-Tian Xu, Philipp Podsiadlowski, Norbert Langer, et al."
+  year: 2026
+  group: "lead"
+  selected: true
+  links:
+    - label: "SciX"
+      url: "https://scixplorer.org/abs/2026A%26A...712A.118X/abstract"
+    - label: "Journal"
+      url: "https://doi.org/10.1051/0004-6361/202659877"
 - title: "Back to the Starting Point: on the Simulation of Initial Magnetic Fields and Spin Periods of Non-accretion Pulsars"
   authors: "Kun Xu, Hao-Ran Yang, Ying-Han Mao, Xiao-Tian Xu (corresponding author), Xiang-Dong Li, and Jifeng Liu"
   year: 2023
@@ -59,7 +81,7 @@
   authors: "K. Sen, Xiao-Tian Xu (co-first author), N. Langer, et al."
   year: 2021
   group: "lead"
-  selected: true
+  selected: false
   links:
     - label: "arXiv"
       url: "https://arxiv.org/abs/2106.01395"
