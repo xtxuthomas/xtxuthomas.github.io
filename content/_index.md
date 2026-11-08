@@ -17,11 +17,9 @@ I am a Tsung-Dao Lee Postdoctoral Fellow at the Tsung-Dao Lee Institute, Shangha
 
 [More about my research](research/) · [Research and publication summary (PDF)](XXU_Works_v2.pdf)
 
-## Selected papers
+## Selected papers ([All papers and preprints](papers/))
 
 {{< publications selected="true" >}}
-
-[All papers and preprints](papers/)
 
 ## Codes and Research Data
 
