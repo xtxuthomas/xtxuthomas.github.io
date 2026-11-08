@@ -9,9 +9,7 @@ I am a Tsung-Dao Lee Postdoctoral Fellow at the Tsung-Dao Lee Institute, Shangha
 
 [Background and education](about/) · [ORCID](https://orcid.org/0000-0001-9565-9462)
 
-[xxu.astro@outlook.com](mailto:xxu.astro@outlook.com) · [xxu-tdli@sjtu.edu.cn](mailto:xxu-tdli@sjtu.edu.cn)<br>
-Tsung-Dao Lee Institute, Shanghai Jiao Tong University<br>
-1 Lisuo Road, Shanghai 201210, China
+
 
 ## Research
 
@@ -35,3 +33,9 @@ Tsung-Dao Lee Institute, Shanghai Jiao Tong University<br>
 ## Beyond research
 
 I enjoy live music, rock, jazz, playing guitar, and cycling. [Watch a guitar recording](guitar.mp4).
+
+## Contact
+
+[xxu.astro@outlook.com](mailto:xxu.astro@outlook.com) · [xxu-tdli@sjtu.edu.cn](mailto:xxu-tdli@sjtu.edu.cn)<br>
+Tsung-Dao Lee Institute, Shanghai Jiao Tong University<br>
+1 Lisuo Road, Shanghai 201210, China

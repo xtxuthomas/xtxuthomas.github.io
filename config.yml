@@ -73,6 +73,8 @@ params:
               url: data/
             - name: Useful links
               url: links/
+            - name: Contact
+              url: "#contact"
 
     assets:
         disableScrollBarStyle: true
