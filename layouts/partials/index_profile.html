@@ -7,6 +7,15 @@
     <p class="profile-subtitle">{{ .subtitle | markdownify }}</p>
   </div>
   {{ end }}
+  <figure class="lbv-animation">
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="{{ "figures/binary-evolution/lbv-periastron-still.png" | relURL }}">
+      <img src="{{ "figures/binary-evolution/lbv-periastron.gif" | relURL }}"
+           alt="An LBV primary and its companion orbit as the primary ejects mass near periastron."
+           width="240" height="240">
+    </picture>
+    <figcaption>LBV primary ejecting mass at periastron</figcaption>
+  </figure>
 </div>
 <div class="home-tabs">
   <nav class="home-tabs-menu" aria-label="Homepage sections">

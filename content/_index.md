@@ -38,6 +38,22 @@ I am a Tsung-Dao Lee Postdoctoral Fellow at the Tsung-Dao Lee Institute, Shangha
 
 </section>
 
+<section class="home-panel" id="binary-evolution-illustration">
+
+## Binary evolution illustration {#heading-binary-evolution-illustration}
+
+[Can isolated binaries form unequal-mass binary black-hole mergers with a high-spin primary black hole?](https://arxiv.org/abs/2609.05128)
+
+{{< figure src="/figures/binary-evolution/smt.png" link="/figures/binary-evolution/smt.png" alt="Evolution of a close binary through stable mass transfer and two possible merger outcomes." caption="Stable mass transfer" >}}
+
+{{< figure src="/figures/binary-evolution/close-che-unequal.png" link="/figures/binary-evolution/close-che-unequal.png" alt="Evolutionary stages when only the primary undergoes chemically homogeneous evolution." caption="Chemically homogeneous evolution in a close, unequal-mass binary" >}}
+
+{{< figure src="/figures/binary-evolution/close-che.png" link="/figures/binary-evolution/close-che.png" alt="Evolutionary stages when both stars undergo chemically homogeneous evolution." caption="Chemically homogeneous evolution in a close, near-equal-mass binary" >}}
+
+{{< figure src="/figures/binary-evolution/wide-binaries.png" link="/figures/binary-evolution/wide-binaries.png" alt="Two pathways for initially wide binaries through orbital shrinkage and eventual compact-object merger." caption="Evolution of wide binaries" >}}
+
+</section>
+
 <section class="home-panel" id="my-papers">
 
 ## Selected papers ([All papers and preprints](papers/)) {#heading-my-papers}

@@ -53,3 +53,31 @@ a:focus-visible { outline: 2px solid var(--darkcolor); outline-offset: 4px; }
     .home-tabs { grid-template-columns: minmax(0, 1fr); gap: 20px; }
     .home-tabs-menu { flex-direction: row; flex-wrap: wrap; }
 }
+
+/* Keep the animation beside the profile and above the homepage divider. */
+.main .profile:has(.lbv-animation) {
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 24px;
+}
+.lbv-animation {
+    flex: 0 1 224px;
+    margin: 0;
+    text-align: center;
+}
+.profile .lbv-animation img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 2px solid #111;
+    border-radius: 0;
+}
+.lbv-animation figcaption {
+    margin-top: 6px;
+    color: var(--secondary);
+    font-size: 0.85rem;
+}
+@media (max-width: 600px) {
+    .main .profile:has(.lbv-animation) { flex-wrap: wrap; }
+    .lbv-animation { flex-basis: 180px; }
+}

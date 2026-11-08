@@ -19,24 +19,27 @@ menu:
         - name: Research
           url: "/#research"
           weight: 2
+        - name: Binary evolution illustration
+          url: "/#binary-evolution-illustration"
+          weight: 3
         - name: My Papers
           url: "/#my-papers"
-          weight: 3
+          weight: 4
         - name: Interesting papers
           url: "/#interesting-papers"
-          weight: 4
+          weight: 5
         - name: Codes and data
           url: "/#codes-and-data"
-          weight: 5
+          weight: 6
         - name: Useful links
           url: "/#useful-links"
-          weight: 6
+          weight: 7
         - name: Beyond research
           url: "/#beyond-research"
-          weight: 7
+          weight: 8
         - name: Contact
           url: "/#contact"
-          weight: 8
+          weight: 9
 
 params:
     description: "Xiao-Tian Xu's personal page"
