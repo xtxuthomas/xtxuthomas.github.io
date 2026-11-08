@@ -71,8 +71,6 @@ params:
               url: papers/
             - name: Interesting papers
               url: reading/
-            - name: CV
-              url: XXU_CV_v2.pdf
             - name: Data
               url: data/
             - name: Useful links

@@ -16,5 +16,3 @@ hideMeta: true
 
 - **2025:** Visitor at Nanjing University.
 - **2026–present:** Tsung-Dao Lee Postdoctoral Fellow at the Tsung-Dao Lee Institute, Shanghai Jiao Tong University.
-
-[Download my CV](../XXU_CV_v2.pdf)
