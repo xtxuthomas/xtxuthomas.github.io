@@ -67,8 +67,6 @@ params:
           buttons:
             - name: Research
               url: research/
-            - name: Papers
-              url: papers/
             - name: Interesting papers
               url: reading/
             - name: Data
