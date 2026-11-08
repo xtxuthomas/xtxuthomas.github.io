@@ -74,10 +74,19 @@ I am a Tsung-Dao Lee Postdoctoral Fellow at the Tsung-Dao Lee Institute, Shangha
 
 ## Codes and Research Data {#heading-codes-and-data}
 
-- [Monte Carlo tool for modelling double neutron star merger offsets](https://zenodo.org/records/22765322) — [Large Offsets of Double-neutron-star Mergers](https://iopscience.iop.org/article/10.3847/1538-4357/aeb027)
-- [MESA template for stable mass transfer and merging black hole binaries](https://zenodo.org/records/21785708) — [The formation of merging black holes via stable mass transfer in massive binary stars](https://www.nature.com/articles/s41550-026-03000-7)
-- [Scripts and inlist files for computing binary models with MESA](https://zenodo.org/records/10017597) — [SMC population synthesis: detailed evolution models](https://doi.org/10.1051/0004-6361/202554786) and [ComBinE predictions](https://doi.org/10.1051/0004-6361/202554874)
-- [MPA Stellar Model Grid Repository](https://wwwmpa.mpa-garching.mpg.de/stellgrid/) — [Stellar mergers as the origin of the blue main-sequence band in young star clusters](https://www.nature.com/articles/s41550-021-01597-5)
+### My work
+
+- [Monte Carlo tool for modelling double neutron star merger offsets](https://zenodo.org/records/22765322)<br>
+  Related paper(s): [Large Offsets of Double-neutron-star Mergers](https://iopscience.iop.org/article/10.3847/1538-4357/aeb027)
+- [MESA template for stable mass transfer and merging black hole binaries](https://zenodo.org/records/21785708)<br>
+  Related paper(s): [The formation of merging black holes via stable mass transfer in massive binary stars](https://www.nature.com/articles/s41550-026-03000-7)
+- [Scripts and inlist files for computing binary models with MESA](https://zenodo.org/records/10017597)<br>
+  Related paper(s): [SMC population synthesis: detailed evolution models](https://doi.org/10.1051/0004-6361/202554786) and [ComBinE predictions](https://doi.org/10.1051/0004-6361/202554874)
+- [MPA Stellar Model Grid Repository](https://wwwmpa.mpa-garching.mpg.de/stellgrid/)<br>
+  Related paper(s): [Stellar mergers as the origin of the blue main-sequence band in young star clusters](https://www.nature.com/articles/s41550-021-01597-5)
+
+### Others
+
 - [BOMBI (Bonn–MPA Binary Interface)](https://www.bonnmpainterface.com/)
 - [BONNSAI](https://www.astro.uni-bonn.de/stars/bonnsai/)
 - [PoWR model grids](https://www.astro.physik.uni-potsdam.de/PoWR/powrgrid1.php)
