@@ -43,6 +43,8 @@
       url: "https://arxiv.org/pdf/2503.23876"
     - label: "SciX"
       url: "https://scixplorer.org/abs/2025A%26A...704A.218X/abstract"
+    - label: "A&A"
+      url: "https://doi.org/10.1051/0004-6361/202554786"
 - title: "Populations of evolved massive binary stars in the Small Magellanic Cloud II: predictions from the rapid binary evolution code ComBinE"
   authors: "C. Schürmann, Xiao-Tian Xu (corresponding author), N. Langer, et al."
   year: 2025
@@ -55,6 +57,8 @@
       url: "https://arxiv.org/pdf/2503.23878"
     - label: "SciX"
       url: "https://scixplorer.org/abs/2025A%26A...704A.219S/abstract"
+    - label: "A&A"
+      url: "https://doi.org/10.1051/0004-6361/202554874"
 - title: "Evolution of wide O star binaries through their luminous blue variable stage: Population synthesis with mass-ejection-driven orbital evolution"
   authors: "Xiao-Tian Xu, Philipp Podsiadlowski, Norbert Langer, et al."
   year: 2026
@@ -63,7 +67,7 @@
   links:
     - label: "SciX"
       url: "https://scixplorer.org/abs/2026A%26A...712A.118X/abstract"
-    - label: "Journal"
+    - label: "A&A"
       url: "https://doi.org/10.1051/0004-6361/202659877"
 - title: "Back to the Starting Point: on the Simulation of Initial Magnetic Fields and Spin Periods of Non-accretion Pulsars"
   authors: "Kun Xu, Hao-Ran Yang, Ying-Han Mao, Xiao-Tian Xu (corresponding author), Xiang-Dong Li, and Jifeng Liu"
