@@ -7,7 +7,11 @@ I study the evolution of binary stars and the compact objects they leave behind.
 
 I am a Tsung-Dao Lee Postdoctoral Fellow at the Tsung-Dao Lee Institute, Shanghai Jiao Tong University. I received my PhD in astrophysics from the University of Bonn in 2024, following my bachelor's and master's studies at Nanjing University.
 
-[Background and education](about/) · [Email](mailto:xxu.astro@outlook.com) · [ORCID](https://orcid.org/0000-0001-9565-9462)
+[Background and education](about/) · [ORCID](https://orcid.org/0000-0001-9565-9462)
+
+[xxu.astro@outlook.com](mailto:xxu.astro@outlook.com) · [xxu-tdli@sjtu.edu.cn](mailto:xxu-tdli@sjtu.edu.cn)<br>
+Tsung-Dao Lee Institute, Shanghai Jiao Tong University<br>
+1 Lisuo Road, Shanghai 201210, China
 
 ## Research
 
@@ -31,9 +35,3 @@ I am a Tsung-Dao Lee Postdoctoral Fellow at the Tsung-Dao Lee Institute, Shangha
 ## Beyond research
 
 I enjoy live music, rock, jazz, playing guitar, and cycling. [Watch a guitar recording](guitar.mp4).
-
-## Contact
-
-[xxu.astro@outlook.com](mailto:xxu.astro@outlook.com)<br>
-Tsung-Dao Lee Institute, Shanghai Jiao Tong University<br>
-1 Lisuo Road, Shanghai 201210, China
