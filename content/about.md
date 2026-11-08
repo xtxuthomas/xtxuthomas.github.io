@@ -1,6 +1,6 @@
 ---
 title: "Background"
-description: "Education, teaching, and interests of Xiao-Tian Xu."
+description: "Education and research experience of Xiao-Tian Xu."
 hideMeta: true
 ---
 
@@ -17,9 +17,3 @@ My CV lists my position as a Tsung-Dao Lee Postdoctoral Fellow at Shanghai Jiao 
 My computational work uses MESA, Fortran, Python, and scientific Python tools to build detailed binary models and population synthesis calculations.
 
 [Download my CV](../XXU_CV_v2.pdf)
-
-## Outside astronomy
-
-I enjoy live music, rock, jazz, playing guitar, and cycling.
-
-[Guitar recording](../guitar.mp4)
