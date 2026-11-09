@@ -10,6 +10,15 @@ readingList: true
 
 ---
 
+## the week of 2026/11/09
+
+- [GW230729\_082317 and GW231118\_005626: A Candidate of Hierarchical Triple Mergers](https://arxiv.org/abs/2611.09338): Bo Gao, Shao-Peng Tang, Yi-Zhong Fan, Qingzhong Liu
+- [The N/O-O/H relation across large-scale environments](https://arxiv.org/abs/2611.09330): Yllari K. González-Koda, Almudena Zurita, Laura Sánchez-Menguiano, Ray Garner, Sebastián F. Sánchez
+- [SN 2026ahvu in NGC 1433 May Be a Prompt Type Ia Supernova with a Delay Time Under 100 Myr](https://arxiv.org/abs/2611.09875): Sumit K. Sarbadhicary, Kiana Henny, Adam Leroy, Karin Sandstrom, Kirsten L. Larson
+- [Superorbital period evolution of Hercules X-1](https://arxiv.org/abs/2611.09801): Abhisek Tamang, Hemanth Manikantan, Kinjal Roy, Ajith Balu, Biswajit Paul
+
+---
+
 ## 2026
 
 - [The formation and evolution of Wolf-Rayet stars with temperature-dependent winds](https://arxiv.org/abs/2611.06650): Guy O. Flint, Avishai Gilkis, Tomer Shenar, Christopher A. Tout
