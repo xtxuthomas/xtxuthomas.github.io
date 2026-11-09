@@ -19,11 +19,11 @@ menu:
         - name: Research
           url: "/#research"
           weight: 2
-        - name: Binary evolution illustration
-          url: "/#binary-evolution-illustration"
-          weight: 3
         - name: My Papers
           url: "/#my-papers"
+          weight: 3
+        - name: Binary evolution illustration
+          url: "/#binary-evolution-illustration"
           weight: 4
         - name: Read lists
           url: "/#interesting-papers"
