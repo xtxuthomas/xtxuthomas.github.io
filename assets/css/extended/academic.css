@@ -91,3 +91,8 @@ a:focus-visible { outline: 2px solid var(--darkcolor); outline-offset: 4px; }
 .reading-list-page .post-content li > a { color: #3d5878; }
 .dark .reading-list-page .post-content li > a { color: #a9c3e0; }
 .reading-list-page .post-content hr { height: 4px; background: var(--secondary); }
+
+.post-content .evolution-figure > figcaption {
+    margin: 0 0 0.6rem;
+    font-size: 1.15rem;
+}

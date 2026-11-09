@@ -42,15 +42,13 @@ I am a Tsung-Dao Lee Postdoctoral Fellow at the Tsung-Dao Lee Institute, Shangha
 
 ## Binary evolution illustration {#heading-binary-evolution-illustration}
 
-[Can isolated binaries form unequal-mass binary black-hole mergers with a high-spin primary black hole?](https://arxiv.org/abs/2609.05128)
+{{< evolution-figure image="wide-binaries.png" caption="Wide binary" alt="Two pathways for initially wide binaries through orbital shrinkage and eventual compact-object merger." >}}
 
-{{< figure src="/figures/binary-evolution/smt.png" link="/figures/binary-evolution/smt.png" alt="Evolution of a close binary through stable mass transfer and two possible merger outcomes." caption="Stable mass transfer" >}}
+{{< evolution-figure image="smt.png" caption="Close binary" alt="Evolution of a close binary through stable mass transfer and two possible merger outcomes." >}}
 
-{{< figure src="/figures/binary-evolution/close-che-unequal.png" link="/figures/binary-evolution/close-che-unequal.png" alt="Evolutionary stages when only the primary undergoes chemically homogeneous evolution." caption="Chemically homogeneous evolution in a close, unequal-mass binary" >}}
+{{< evolution-figure image="close-che.png" caption="Chemically homogeneous evolution, equal-mass binary" alt="Evolutionary stages when both stars undergo chemically homogeneous evolution." >}}
 
-{{< figure src="/figures/binary-evolution/close-che.png" link="/figures/binary-evolution/close-che.png" alt="Evolutionary stages when both stars undergo chemically homogeneous evolution." caption="Chemically homogeneous evolution in a close, near-equal-mass binary" >}}
-
-{{< figure src="/figures/binary-evolution/wide-binaries.png" link="/figures/binary-evolution/wide-binaries.png" alt="Two pathways for initially wide binaries through orbital shrinkage and eventual compact-object merger." caption="Evolution of wide binaries" >}}
+{{< evolution-figure image="close-che-unequal.png" caption="Chemically homogeneous evolution, unequal-mass binary" alt="Evolutionary stages when only the primary undergoes chemically homogeneous evolution." >}}
 
 </section>
 

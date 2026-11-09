@@ -1,0 +1,5 @@
+{{- $image := printf "figures/binary-evolution/%s" (.Get "image") | relURL -}}
+<figure class="evolution-figure">
+  <figcaption>{{ .Get "caption" }} | <a href="https://arxiv.org/abs/2609.05128">related paper</a></figcaption>
+  <a href="{{ $image }}"><img src="{{ $image }}" alt="{{ .Get "alt" }}" loading="lazy"></a>
+</figure>
