@@ -21,8 +21,8 @@ I am a Tsung-Dao Lee Postdoctoral Fellow at the Tsung-Dao Lee Institute, Shangha
 
 ### Research experience
 
-- **2025:** Visitor at Nanjing University.
 - **2025–present:** Tsung-Dao Lee Postdoctoral Fellow at the Tsung-Dao Lee Institute, Shanghai Jiao Tong University.
+- **2025:** Visitor at Nanjing University.
 
 </section>
 
@@ -60,7 +60,7 @@ I am a Tsung-Dao Lee Postdoctoral Fellow at the Tsung-Dao Lee Institute, Shangha
 
 ### Complete list
 
-- First/corresponding authored
+- [First/corresponding authored](https://scixplorer.org/user/libraries/L8aI_pnsRGSkgaMk-d_ATg)
 - Collaboration
 
 </section>
