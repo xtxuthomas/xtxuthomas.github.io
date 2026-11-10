@@ -16,6 +16,8 @@ readingList: true
 - [The N/O-O/H relation across large-scale environments](https://arxiv.org/abs/2611.09330): Yllari K. González-Koda, Almudena Zurita, Laura Sánchez-Menguiano, Ray Garner, Sebastián F. Sánchez
 - [SN 2026ahvu in NGC 1433 May Be a Prompt Type Ia Supernova with a Delay Time Under 100 Myr](https://arxiv.org/abs/2611.09875): Sumit K. Sarbadhicary, Kiana Henny, Adam Leroy, Karin Sandstrom, Kirsten L. Larson
 - [Superorbital period evolution of Hercules X-1](https://arxiv.org/abs/2611.09801): Abhisek Tamang, Hemanth Manikantan, Kinjal Roy, Ajith Balu, Biswajit Paul
+- [Faint Thermonuclear Transients from the Double Detonations of Common White Dwarfs](https://arxiv.org/abs/2611.10431): Samuel J. Boos, Lars Bildsten
+- [Stellar Disruption and Black Hole Retention in Massive Collisions: The Role of Thermonuclear Feedback](https://arxiv.org/abs/2611.10934): Hongxuan Jiang, Douglas N. C. Lin
 
 ---
 
