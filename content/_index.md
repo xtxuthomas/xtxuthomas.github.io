@@ -58,10 +58,10 @@ I am a Tsung-Dao Lee Postdoctoral Fellow at the Tsung-Dao Lee Institute, Shangha
 
 {{< publications selected="true" >}}
 
-### Complete list
+### Paper lists
 
 - [First/corresponding authored](https://scixplorer.org/public-libraries/L8aI_pnsRGSkgaMk-d_ATg)
-- Collaboration
+- Complete list
 
 </section>
 
