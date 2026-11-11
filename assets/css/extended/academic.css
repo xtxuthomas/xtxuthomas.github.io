@@ -6,6 +6,8 @@
 .profile .profile_inner { gap: 12px; }
 .profile img { object-fit: cover; }
 .profile-subtitle { color: var(--secondary); }
+.profile-websites { overflow-wrap: anywhere; }
+.profile-websites a { text-decoration: underline; }
 .home-content { font-size: 1rem; }
 .home-content h2 { font-size: 1.4rem; margin-top: 36px; }
 .publications { padding-left: 0 !important; list-style: none; }
