@@ -19,6 +19,8 @@ I am a Tsung-Dao Lee Postdoctoral Fellow at the Tsung-Dao Lee Institute, Shangha
   Thesis: [中子星／黑洞X射线双星的形成与演化 (PDF, Chinese)](theses/masters-thesis.pdf).
 - **2012–2016:** Bachelor's degree in Astronomy, Nanjing University, China.
 
+[![Research keywords arranged as two stars connected by mass transfer, highlighting binary evolution, massive stars, compact objects, and gravitational waves.](figures/binary-research-wordcloud.png)](figures/binary-research-wordcloud.png)
+
 ### Research experience
 
 - **2025–present:** Tsung-Dao Lee Postdoctoral Fellow at the Tsung-Dao Lee Institute, Shanghai Jiao Tong University.
