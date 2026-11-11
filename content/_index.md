@@ -11,6 +11,8 @@ I study the evolution of binary stars and the compact objects they leave behind.
 
 I am a Tsung-Dao Lee Postdoctoral Fellow at the Tsung-Dao Lee Institute, Shanghai Jiao Tong University. I received my PhD in astrophysics from the University of Bonn in 2024, following my bachelor's and master's studies at Nanjing University.
 
+[![Research keywords arranged as two stars connected by mass transfer, highlighting binary evolution, massive stars, compact objects, and gravitational waves.](figures/binary-research-wordcloud.png)](figures/binary-research-wordcloud.png)
+
 ### Education
 
 - **2019–2024:** PhD in Astrophysics, University of Bonn, Germany.
@@ -18,8 +20,6 @@ I am a Tsung-Dao Lee Postdoctoral Fellow at the Tsung-Dao Lee Institute, Shangha
 - **2016–2019:** MSc in Astrophysics, Nanjing University, China.
   Thesis: [中子星／黑洞X射线双星的形成与演化 (PDF, Chinese)](theses/masters-thesis.pdf).
 - **2012–2016:** Bachelor's degree in Astronomy, Nanjing University, China.
-
-[![Research keywords arranged as two stars connected by mass transfer, highlighting binary evolution, massive stars, compact objects, and gravitational waves.](figures/binary-research-wordcloud.png)](figures/binary-research-wordcloud.png)
 
 ### Research experience
 
