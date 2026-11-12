@@ -18,6 +18,8 @@ readingList: true
 - [Superorbital period evolution of Hercules X-1](https://arxiv.org/abs/2611.09801): Abhisek Tamang, Hemanth Manikantan, Kinjal Roy, Ajith Balu, Biswajit Paul
 - [Faint Thermonuclear Transients from the Double Detonations of Common White Dwarfs](https://arxiv.org/abs/2611.10431): Samuel J. Boos, Lars Bildsten
 - [Stellar Disruption and Black Hole Retention in Massive Collisions: The Role of Thermonuclear Feedback](https://arxiv.org/abs/2611.10934): Hongxuan Jiang, Douglas N. C. Lin
+- [Thermal-pulse-resolved Binary Population Synthesis with Detailed Stellar Models: Implications for Long-period WD+MS Formation](https://arxiv.org/abs/2611.13502): Yanxu Shi, Hongwei Ge, Diogo Belloni, Dengkai Jiang, Hailiang Chen
+- [Dwarf galaxy simulations with stellar-core mass- and metallicity-dependent core-collapse supernova explosion energies](https://arxiv.org/abs/2611.14437): Natalia Lahén, Kiril Maltsev, Thorsten Naab, Hans-Thomas Janka
 
 ---
 
