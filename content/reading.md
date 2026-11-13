@@ -20,6 +20,7 @@ readingList: true
 - [Stellar Disruption and Black Hole Retention in Massive Collisions: The Role of Thermonuclear Feedback](https://arxiv.org/abs/2611.10934): Hongxuan Jiang, Douglas N. C. Lin
 - [Thermal-pulse-resolved Binary Population Synthesis with Detailed Stellar Models: Implications for Long-period WD+MS Formation](https://arxiv.org/abs/2611.13502): Yanxu Shi, Hongwei Ge, Diogo Belloni, Dengkai Jiang, Hailiang Chen
 - [Dwarf galaxy simulations with stellar-core mass- and metallicity-dependent core-collapse supernova explosion energies](https://arxiv.org/abs/2611.14437): Natalia Lahén, Kiril Maltsev, Thorsten Naab, Hans-Thomas Janka
+- [Spins do not add: why rotating stars do not help spin-up black holes in binaries](https://arxiv.org/abs/2611.14610): Filippo Camilloni, Konrad Topolski, Keneth Miler, Luciano Rezzolla
 
 ---
 
