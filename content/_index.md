@@ -44,6 +44,8 @@ I am a Tsung-Dao Lee Postdoctoral Fellow at the Tsung-Dao Lee Institute, Shangha
 
 ## Binary evolution illustration {#heading-binary-evolution-illustration}
 
+<p class="illustration-note">(Made by hand using ppt, no AI)</p>
+
 {{< evolution-figure image="wide-binaries.png" caption="Wide binary" alt="Two pathways for initially wide binaries through orbital shrinkage and eventual compact-object merger." >}}
 
 {{< evolution-figure image="smt.png" caption="Close binary" alt="Evolution of a close binary through stable mass transfer and two possible merger outcomes." >}}
