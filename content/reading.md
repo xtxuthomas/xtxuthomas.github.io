@@ -10,6 +10,12 @@ readingList: true
 
 ---
 
+## the week of 2026/11/16
+
+- [Discovery of a Short-Duration Fast X-ray Transient Associated with a Short Gamma-Ray Burst](https://arxiv.org/abs/2611.18210): Yi-Han Iris Yin, Run-Duo Liang, Hui Sun, Jun Yang, Haiwu Pan
+
+---
+
 ## the week of 2026/11/09
 
 - [GW230729\_082317 and GW231118\_005626: A Candidate of Hierarchical Triple Mergers](https://arxiv.org/abs/2611.09338): Bo Gao, Shao-Peng Tang, Yi-Zhong Fan, Qingzhong Liu
