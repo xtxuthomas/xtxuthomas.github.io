@@ -54,6 +54,8 @@ I am a Tsung-Dao Lee Postdoctoral Fellow at the Tsung-Dao Lee Institute, Shangha
 
 {{< evolution-figure image="schematic-lbv.png" caption="Evolution of wide O-star binaries through the LBV stage" paper="https://doi.org/10.1051/0004-6361/202659877" alt="Evolution of initially wide O-star binaries through LBV mass ejection, showing binary disruption, eccentric helium-star and black-hole systems, and possible common-envelope and merger outcomes." >}}
 
+{{< evolution-figure image="sgrb-offset.png" caption="Double neutron-star evolution and short gamma-ray burst offsets" paper="https://iopscience.iop.org/article/10.3847/1538-4357/aeb027" alt="Binary evolution leading to a double neutron-star merger and short gamma-ray burst, showing supernova kicks, systemic motion, and the offset between the birthplace and the observed burst location." >}}
+
 </section>
 
 <section class="home-panel" id="my-papers">
