@@ -52,6 +52,8 @@ I am a Tsung-Dao Lee Postdoctoral Fellow at the Tsung-Dao Lee Institute, Shangha
 
 {{< evolution-figure image="close-che-unequal.png" caption="Chemically homogeneous evolution, unequal-mass binary" alt="Evolutionary stages when only the primary undergoes chemically homogeneous evolution." >}}
 
+{{< evolution-figure image="schematic-lbv.png" caption="Evolution of wide O-star binaries through the LBV stage" paper="https://doi.org/10.1051/0004-6361/202659877" alt="Evolution of initially wide O-star binaries through LBV mass ejection, showing binary disruption, eccentric helium-star and black-hole systems, and possible common-envelope and merger outcomes." >}}
+
 </section>
 
 <section class="home-panel" id="my-papers">
