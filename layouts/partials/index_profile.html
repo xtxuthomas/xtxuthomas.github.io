@@ -22,6 +22,13 @@
   <nav class="home-tabs-menu" aria-label="Homepage sections">
     {{ range site.Menus.main }}
     <a data-home-tab href="#{{ (urls.Parse .URL).Fragment }}">{{ .Name }}</a>
+    {{ if eq (urls.Parse .URL).Fragment "binary-evolution-illustration" }}
+    <ul class="illustration-subtabs" id="illustration-subtabs" aria-label="Binary evolution illustrations" hidden>
+      {{ range site.Data.illustrations }}
+      <li><a data-illustration-link href="#{{ .id }}">{{ .label }}</a></li>
+      {{ end }}
+    </ul>
+    {{ end }}
     {{ end }}
   </nav>
   <div class="post-content home-content">{{ .Content }}</div>

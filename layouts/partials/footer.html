@@ -38,7 +38,7 @@
         }
     }
 
-    document.querySelectorAll('a[href^="#"]:not([data-home-tab])').forEach(anchor => {
+    document.querySelectorAll('a[href^="#"]:not([data-home-tab]):not([data-illustration-link])').forEach(anchor => {
         anchor.addEventListener("click", function (e) {
             e.preventDefault();
             var id = this.getAttribute("href").substr(1);

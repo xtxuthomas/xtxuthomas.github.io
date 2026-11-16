@@ -1,0 +1,19 @@
+# Sidebar labels and anchors. Match image to the evolution-figure shortcode.
+- image: wide-binaries.png
+  id: illustration-wide-binary
+  label: Wide binary
+- image: smt.png
+  id: illustration-close-binary
+  label: Close binary
+- image: close-che.png
+  id: illustration-equal-mass-che
+  label: equal-mass CHE
+- image: close-che-unequal.png
+  id: illustration-unequal-mass-che
+  label: unequal-mass CHE
+- image: schematic-lbv.png
+  id: illustration-lbv-binary
+  label: LBV binary
+- image: sgrb-offset.png
+  id: illustration-sgrb-offset
+  label: SGRB offset

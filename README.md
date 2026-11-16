@@ -161,6 +161,8 @@ Only use the PDF link if you added that file. The page lives at `/papers/my-pape
 
 ## Preview and build
 
+The illustration subtags are listed in `data/illustrations.yaml`. Each entry gives the image filename, a unique anchor `id`, and its short sidebar `label`. Match the image filename to an `evolution-figure` shortcode in `content/_index.md`; the shortcode takes `caption`, `alt`, and an optional `paper` URL. Keep the data entries in the same order as the figures. The submenu appears only while Binary evolution illustration is selected.
+
 Use Hugo **0.147.2 extended**, matching `.github/workflows/hugo.yml`. See [Hugo installation](https://gohugo.io/installation/) for other machines.
 
 From this `website` directory:

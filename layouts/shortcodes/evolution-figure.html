@@ -1,6 +1,8 @@
 {{- $image := printf "figures/binary-evolution/%s" (.Get "image") | relURL -}}
 {{- $paper := .Get "paper" | default "https://arxiv.org/abs/2609.05128" -}}
+{{- $entry := index (where site.Data.illustrations "image" (.Get "image")) 0 -}}
+{{- $size := imageConfig (printf "static/figures/binary-evolution/%s" (.Get "image")) -}}
 <figure class="evolution-figure">
-  <figcaption>{{ .Get "caption" }} | <a href="{{ $paper }}">related paper</a></figcaption>
-  <a href="{{ $image }}"><img src="{{ $image }}" alt="{{ .Get "alt" }}" loading="lazy"></a>
+  <figcaption{{ with $entry }} id="{{ .id }}"{{ end }}>{{ .Get "caption" }} | <a href="{{ $paper }}">related paper</a></figcaption>
+  <a href="{{ $image }}"><img src="{{ $image }}" alt="{{ .Get "alt" }}" width="{{ $size.Width }}" height="{{ $size.Height }}" loading="lazy"></a>
 </figure>
