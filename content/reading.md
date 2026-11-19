@@ -13,6 +13,9 @@ readingList: true
 ## the week of 2026/11/16
 
 - [Discovery of a Short-Duration Fast X-ray Transient Associated with a Short Gamma-Ray Burst](https://arxiv.org/abs/2611.18210): Yi-Han Iris Yin, Run-Duo Liang, Hui Sun, Jun Yang, Haiwu Pan
+- [Super-Eddington Accretion onto Compact Objects: Theory Meets Observation](https://arxiv.org/abs/2611.21838): Yan-Fei Jiang, Jenny E. Greene
+- [Long-Term Radio Evolution of the Type Ia Supernova SN 2020eyj: Evidence for a Dense Helium-rich Circumstellar Shell](https://arxiv.org/abs/2611.20669): Zheng-Wei Liu, Xiaolong Yang, Huanyuan Shan, Xuefei Chen, Peng Jiang
+- [Magnetic Power in Binaries: From Coalescing Binary Neutron Stars to Close-in Exoplanetary Systems](https://arxiv.org/abs/2611.20654): Dong Lai, Tu Guo, Nicholas Corso
 
 ---
 
