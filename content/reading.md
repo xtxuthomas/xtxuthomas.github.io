@@ -10,6 +10,14 @@ readingList: true
 
 ---
 
+## the week of 2026/11/23
+
+- [Fast X-Ray Transients from Dense Circumstellar Material Shock Breakout and Cooling Emission](https://arxiv.org/abs/2611.26008): Jin-Ping Zhu, Yi-Han Iris Yin, Yun-Wei Yu, Zhuo Li, Bing Zhang
+- [Gamma-Ray Bursts from Primordial Black Hole-Induced Neutron Star Collapse](https://arxiv.org/abs/2611.25876): Yu Watanabe, Koichiro Yasuda, Alexander Kusenko
+- [3D Binary Evolution of a Merging Binary Black Hole Progenitor](https://arxiv.org/abs/2611.25310): David Dickson, Pablo Marchant, Jon Sundqvist, Mattias Fabry
+
+---
+
 ## the week of 2026/11/16
 
 - [Discovery of a Short-Duration Fast X-ray Transient Associated with a Short Gamma-Ray Burst](https://arxiv.org/abs/2611.18210): Yi-Han Iris Yin, Run-Duo Liang, Hui Sun, Jun Yang, Haiwu Pan
