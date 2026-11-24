@@ -17,6 +17,10 @@ readingList: true
 - [3D Binary Evolution of a Merging Binary Black Hole Progenitor](https://arxiv.org/abs/2611.25310): David Dickson, Pablo Marchant, Jon Sundqvist, Mattias Fabry
 - AT 2025abao: [An inspiral of a star inside a common envelope with its giant companion](https://arxiv.org/abs/2611.23470): Viraj Karambelkar, Kishalay De, Karel D. Temmink, Brian D. Metzger, Nadejda Blagorodnova
 - [Unravelling the Nature of AT 2025abao: From Precursor to Final Fate](https://arxiv.org/abs/2610.05769): Zhuo Chen, Yingzhen Cui, Tianshu Wu, Yongzhi Cai, Hongwei Ge
+- [The Most X-ray Luminous Fast Blue Optical Transient at Early Times: AT 2024qfm and Inefficient Reprocessing of Its High-Energy Emission](https://arxiv.org/abs/2611.28443): A.J. Nayana, Raffaella Margutti, Ryan Chornock, James F. Steiner, Erica Hammerstein
+- [Time-variable tertiary mass transfer in hierarchical triple systems](https://arxiv.org/abs/2611.28537): Alejandra Rosselli-Calderon, Morgan MacLeod, Enrico Ramirez-Ruiz
+- [Offsets in gravitational wave burst timing in eccentric black hole binaries with stellar-mass tertiaries](https://arxiv.org/abs/2611.30271): C. W. Bruenech, I. Romero-Shaw, N. Loutrel, S. Toonen
+- [Stars on the ascending helium giant branch: II. A metal-rich luminous helium sdO gone astray](https://arxiv.org/abs/2611.30643): M. Pritzkuleit, M. Dorsch, M. Miller Bertolami, S. Geier, C. W. Bradshaw
 
 ---
 
