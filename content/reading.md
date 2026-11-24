@@ -15,7 +15,7 @@ readingList: true
 - [Fast X-Ray Transients from Dense Circumstellar Material Shock Breakout and Cooling Emission](https://arxiv.org/abs/2611.26008): Jin-Ping Zhu, Yi-Han Iris Yin, Yun-Wei Yu, Zhuo Li, Bing Zhang
 - [Gamma-Ray Bursts from Primordial Black Hole-Induced Neutron Star Collapse](https://arxiv.org/abs/2611.25876): Yu Watanabe, Koichiro Yasuda, Alexander Kusenko
 - [3D Binary Evolution of a Merging Binary Black Hole Progenitor](https://arxiv.org/abs/2611.25310): David Dickson, Pablo Marchant, Jon Sundqvist, Mattias Fabry
-- [An inspiral of a star inside a common envelope with its giant companion](https://arxiv.org/abs/2611.23470): Viraj Karambelkar, Kishalay De, Karel D. Temmink, Brian D. Metzger, Nadejda Blagorodnova
+- AT 2025abao: [An inspiral of a star inside a common envelope with its giant companion](https://arxiv.org/abs/2611.23470): Viraj Karambelkar, Kishalay De, Karel D. Temmink, Brian D. Metzger, Nadejda Blagorodnova
 - [Unravelling the Nature of AT 2025abao: From Precursor to Final Fate](https://arxiv.org/abs/2610.05769): Zhuo Chen, Yingzhen Cui, Tianshu Wu, Yongzhi Cai, Hongwei Ge
 
 ---
