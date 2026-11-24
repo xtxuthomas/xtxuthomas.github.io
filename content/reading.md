@@ -16,6 +16,7 @@ readingList: true
 - [Gamma-Ray Bursts from Primordial Black Hole-Induced Neutron Star Collapse](https://arxiv.org/abs/2611.25876): Yu Watanabe, Koichiro Yasuda, Alexander Kusenko
 - [3D Binary Evolution of a Merging Binary Black Hole Progenitor](https://arxiv.org/abs/2611.25310): David Dickson, Pablo Marchant, Jon Sundqvist, Mattias Fabry
 - [An inspiral of a star inside a common envelope with its giant companion](https://arxiv.org/abs/2611.23470): Viraj Karambelkar, Kishalay De, Karel D. Temmink, Brian D. Metzger, Nadejda Blagorodnova
+- [Unravelling the Nature of AT 2025abao: From Precursor to Final Fate](https://arxiv.org/abs/2610.05769): Zhuo Chen, Yingzhen Cui, Tianshu Wu, Yongzhi Cai, Hongwei Ge
 
 ---
 
@@ -73,7 +74,6 @@ readingList: true
 - [Identity Crisis: Untangling Mass-Ordering Artifacts from Compact-Object Pairing in Gravitational-Wave Populations](https://arxiv.org/abs/2610.18962): Soumendra Kishore Roy, Asad Hussain, L. A. C. van Son, Maya Fishbach, Carl L. Rodriguez
 - [An upper limit on Galactic OB+black hole binaries from SDSS-V](https://arxiv.org/abs/2610.17253): J. Müller-Horn, H. -W. Rix, S. Shahaf, B. Pennell, E. Zari
 - [The effect of triples on the Chemically Homogeneous Evolution Channel for producing Gravitational Wave Sources](https://arxiv.org/abs/2610.14353): Silvia A. Popa, Selma E. de Mink, Stephen Justham, Jakob Stegmann, Alejandro Vigna-Gomez
-- [Unravelling the Nature of AT 2025abao: From Precursor to Final Fate](https://arxiv.org/abs/2610.05769): Zhuo Chen, Yingzhen Cui, Tianshu Wu, Yongzhi Cai, Hongwei Ge
 - [Study of the Ultra-Long GRB 220627A: Exploring a Possible Blue Supergiant Collapsar Origin](https://arxiv.org/abs/2610.02889): Ayush Garg, Amit Shukla, Dorottya Szécsi, G. C. Anupama
 - [Wolf-Rayet formation through L/M-dependent superwinds](https://arxiv.org/abs/2610.01953): Aisling McKeown, Ciarán Furey, Gautham N. Sabhahit, Jorick S. Vink
 - [Structure of Convective-Reactive Zone in a Supernova Progenitor](https://arxiv.org/abs/2610.01239): M. Mocak, C. Meakin, F. Rizzuti, S. W. Campbell, V. Varma
