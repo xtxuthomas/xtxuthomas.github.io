@@ -21,6 +21,7 @@ readingList: true
 - [Time-variable tertiary mass transfer in hierarchical triple systems](https://arxiv.org/abs/2611.28537): Alejandra Rosselli-Calderon, Morgan MacLeod, Enrico Ramirez-Ruiz
 - [Offsets in gravitational wave burst timing in eccentric black hole binaries with stellar-mass tertiaries](https://arxiv.org/abs/2611.30271): C. W. Bruenech, I. Romero-Shaw, N. Loutrel, S. Toonen
 - [Stars on the ascending helium giant branch: II. A metal-rich luminous helium sdO gone astray](https://arxiv.org/abs/2611.30643): M. Pritzkuleit, M. Dorsch, M. Miller Bertolami, S. Geier, C. W. Bradshaw
+- [On the evidence of lensing in GW231123](https://arxiv.org/abs/2611.31389): Anna Liu, Mick Wright, Jef Heynen, Eungwang Seo, Isaac C. F. Wong
 
 ---
 
