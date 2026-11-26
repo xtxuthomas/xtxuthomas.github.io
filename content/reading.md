@@ -22,6 +22,9 @@ readingList: true
 - [Offsets in gravitational wave burst timing in eccentric black hole binaries with stellar-mass tertiaries](https://arxiv.org/abs/2611.30271): C. W. Bruenech, I. Romero-Shaw, N. Loutrel, S. Toonen
 - [Stars on the ascending helium giant branch: II. A metal-rich luminous helium sdO gone astray](https://arxiv.org/abs/2611.30643): M. Pritzkuleit, M. Dorsch, M. Miller Bertolami, S. Geier, C. W. Bradshaw
 - [On the evidence of lensing in GW231123](https://arxiv.org/abs/2611.31389): Anna Liu, Mick Wright, Jef Heynen, Eungwang Seo, Isaac C. F. Wong
+- [One, two, three, and a tilting frisbee: a transient state of some Be stars](https://arxiv.org/abs/2611.34548): Dietrich Baade, Jonathan Labadie-Bartz, Thomas Rivinius
+- [Binary mass transfer fossil in the ancient GD-1 stellar stream](https://arxiv.org/abs/2611.33658): Guochao Yang, Sofya Alexeeva, Jingkun Zhao, Wako Aoki, Tatyana Sitnova
+- [A Tale of Two Type IIb Supernovae: Radio-loud and Radio-silent Candidate Counterparts to Sub-solar Mass Gravitational-wave Triggers](https://arxiv.org/abs/2611.33319): Tanner O'Dwyer, Alessandra Corsi, Raphael Baer-Way, Mansi M. Kasliwal, Poonam Chandra
 
 ---
 
